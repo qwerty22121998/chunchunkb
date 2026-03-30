@@ -1,0 +1,12 @@
+[submodule "nice_view_pcb"]
+	path = nice_view_pcb
+	url = https://github.com/HookyQR/nice_view_pcb.git
+	ignore = dirty
+[submodule "nice-nano-kicad"]
+	path = nice-nano-kicad
+	url = https://github.com/bstiq/nice-nano-kicad.git
+	ignore = dirty
+[submodule "kbd"]
+	path = kbd
+	url = https://github.com/foostan/kbd.git
+	ignore = dirty
