@@ -702,8 +702,8 @@
     "top_level_sheets": [
       {
         "filename": "chunchunkb.kicad_sch",
-        "name": "Right",
-        "uuid": "4119ae86-0a49-4404-bd9e-0444cb5c4be8"
+        "name": "ChunchunKB",
+        "uuid": "c64465b6-eb49-4a63-b501-311556755a54"
       }
     ],
     "used_designators": "",
@@ -711,8 +711,8 @@
   },
   "sheets": [
     [
-      "4119ae86-0a49-4404-bd9e-0444cb5c4be8",
-      "Right"
+      "c64465b6-eb49-4a63-b501-311556755a54",
+      "ChunchunKB"
     ]
   ],
   "text_variables": {},
