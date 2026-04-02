@@ -28,8 +28,8 @@ Original inspirated by Sofle keyboard, but I want to add more keys (F-rows) and 
 - https://github.com/bstiq/nice-nano-kicad
 - https://github.com/HookyQR/nice_view_pcb
 ## 3D models
-- http://grabcad.com/library/ec11-rotary-encoder-with-switch-1
 - https://grabcad.com/library/dip24w-socket-with-ic-1
-- https://grabcad.com/library/volume-control-rotary-knobs-1
 - https://grabcad.com/library/mechanical-switch-akko-wine-red-replica-1
 - https://grabcad.com/library/mx-cherry-relegendable-keycaps-1
+- https://grabcad.com/library/ec11-rotary-encoder-dode-switch-15mm-1
+- https://grabcad.com/library/knobs-15
