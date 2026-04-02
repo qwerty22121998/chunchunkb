@@ -1,0 +1,120 @@
+(footprint "Jumper"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "JP1"
+		(at -2.286 0.127 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "924c32a0-9b60-49d9-b143-d279b53ce141")
+		(effects
+			(font
+				(size 0.8128 0.8128)
+				(thickness 0.1524)
+			)
+		)
+	)
+	(property "Value" "Jumper_NO_Small"
+		(at -2.755 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "23fdd92e-bf5a-44b5-91b6-09fe6272b852")
+		(effects
+			(font
+				(size 0.8128 0.8128)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "23d5527e-84c6-4e30-be7e-0d74b63c7267")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bbefa4b7-0b9f-4a38-926c-c3bdd075f99f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.143 -0.889)
+		(end 1.143 -0.889)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e3effa1e-3848-4590-a052-7263480a09d1")
+	)
+	(fp_line
+		(start -1.143 0.889)
+		(end -1.143 -0.889)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0a1b9b06-0e5e-4b10-b350-1d5937c37b93")
+	)
+	(fp_line
+		(start 1.143 -0.889)
+		(end 1.143 0.889)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9693e502-204d-4cce-ab2c-1bc3b78dd884")
+	)
+	(fp_line
+		(start 1.143 0.889)
+		(end -1.143 0.889)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "13340615-19b9-4238-8c5f-532848353e9a")
+	)
+	(pad "1" smd rect
+		(at -0.50038 0)
+		(size 0.635 1.143)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(clearance 0.1905)
+		(uuid "fc41ac11-19d8-442c-95c6-176e5d122c70")
+	)
+	(pad "2" smd rect
+		(at 0.50038 0)
+		(size 0.635 1.143)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(clearance 0.1905)
+		(uuid "13126fff-3b40-49d8-82a3-133fd6d2909e")
+	)
+	(embedded_fonts no)
+	(model "smd\\resistors\\R0603.wrl"
+		(offset
+			(xyz 0 0 0.02539999962)
+		)
+		(scale
+			(xyz 0.5 0.5 0.5)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

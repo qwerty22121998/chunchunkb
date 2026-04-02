@@ -1,4 +1,6 @@
 .history/
+.history_trim/
 .misc/
 *.lck
 chunchunkb-backups/
+*.bak
