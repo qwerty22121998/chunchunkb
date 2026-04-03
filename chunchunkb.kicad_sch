@@ -3132,12 +3132,6 @@
 		(uuid "2d04b02f-03b0-4b37-8448-dbe8c2fef49e")
 	)
 	(junction
-		(at 30.48 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2d6a9bf1-03b0-40de-85b3-7b8b745e7b64")
-	)
-	(junction
 		(at 295.91 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3166,6 +3160,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4ac69b8d-80af-4d1b-bc1b-26620310001b")
+	)
+	(junction
+		(at 30.48 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b9ade32-11b7-469e-b744-6f62f8084bfe")
 	)
 	(junction
 		(at 337.82 43.18)
@@ -3238,6 +3238,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "77eaa918-74dc-4a5c-afa3-c49f91265de9")
+	)
+	(junction
+		(at 25.4 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7a3cb305-b931-4860-9942-35c62fc7a194")
 	)
 	(junction
 		(at 323.85 43.18)
@@ -3366,6 +3372,12 @@
 		(uuid "b876f20d-aaeb-4428-8e62-131d083f6914")
 	)
 	(junction
+		(at 73.66 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "beb13ada-aac4-420a-afa1-5edf2c5e6299")
+	)
+	(junction
 		(at 347.98 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3442,10 +3454,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f4264ed6-96db-43e6-83eb-1e79eab21d8e")
-	)
-	(no_connect
-		(at 71.12 40.64)
-		(uuid "3bf6ae5f-4c35-410d-af77-8cb9110c5c2f")
 	)
 	(no_connect
 		(at 101.6 45.72)
@@ -3637,6 +3645,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 48.26) (xy 30.48 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1911c0f9-8b18-452d-ae5d-b3247353f643")
+	)
+	(wire
+		(pts
 			(xy 337.82 60.96) (xy 351.79 60.96)
 		)
 		(stroke
@@ -3707,6 +3725,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 40.64) (xy 73.66 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26657e13-e0a3-4ca2-8043-5b7ac2a662b8")
+	)
+	(wire
+		(pts
 			(xy 306.07 35.56) (xy 306.07 53.34)
 		)
 		(stroke
@@ -3754,6 +3782,16 @@
 			(type default)
 		)
 		(uuid "2dc4e9cd-e434-435d-b590-5bd164af595e")
+	)
+	(wire
+		(pts
+			(xy 25.4 40.64) (xy 25.4 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2dcb8946-fbad-4601-95da-8969d9c80105")
 	)
 	(wire
 		(pts
@@ -3867,7 +3905,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 48.26) (xy 30.48 48.26)
+			(xy 19.05 48.26) (xy 25.4 48.26)
 		)
 		(stroke
 			(width 0)
@@ -3924,6 +3962,16 @@
 			(type default)
 		)
 		(uuid "483929f7-97f1-4bda-9a5b-b6d32e9e7536")
+	)
+	(wire
+		(pts
+			(xy 73.66 43.18) (xy 71.12 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a5609a3-3d71-4c8c-a185-af68b2b9bdaf")
 	)
 	(wire
 		(pts
@@ -4257,7 +4305,17 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 43.18) (xy 71.12 43.18)
+			(xy 73.66 40.64) (xy 73.66 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91c5d454-49bf-4351-aead-f77ced15937f")
+	)
+	(wire
+		(pts
+			(xy 91.44 43.18) (xy 73.66 43.18)
 		)
 		(stroke
 			(width 0)
@@ -4284,6 +4342,16 @@
 			(type default)
 		)
 		(uuid "99b2fe61-bf19-43f7-85b9-2ae0d8481ee1")
+	)
+	(wire
+		(pts
+			(xy 35.56 40.64) (xy 25.4 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f24a5d3-1e6a-4500-b85e-269c20688b3c")
 	)
 	(wire
 		(pts
@@ -13067,7 +13135,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 27.94 48.26 270)
+		(at 19.05 48.26 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13077,7 +13145,7 @@
 		(dnp no)
 		(uuid "9b883436-862d-4c74-bdca-c63b80611658")
 		(property "Reference" "#PWR06"
-			(at 21.59 48.26 0)
+			(at 12.7 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13088,7 +13156,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 22.86 51.054 90)
+			(at 13.97 51.054 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13098,7 +13166,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 48.26 0)
+			(at 19.05 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13109,7 +13177,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 48.26 0)
+			(at 19.05 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13120,7 +13188,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 27.94 48.26 0)
+			(at 19.05 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
