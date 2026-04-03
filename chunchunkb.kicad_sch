@@ -13705,7 +13705,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_1P1T_6x3.5mm_H4.3_APEM_MJTP1243"
+		(property "Footprint" "chunchunkb:SW_PUSH_1P1T_6x3.5mm_H4.3_APEM_MJTP1243"
 			(at 162.56 39.37 0)
 			(hide yes)
 			(show_name no)

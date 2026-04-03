@@ -1,0 +1,330 @@
+(footprint "SW_PUSH_1P1T_6x3.5mm_H4.3_APEM_MJTP1243"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "tactile push button, 6x3.5mm, https://www.apem.com/idec-apem/en_US/PCB-switches/Tactile-Switches/MJTP-6mm-through-hole/c/MJTP_6mm_through%20hole?page=1")
+	(tags "PHAP3362 6mm tact sw THT")
+	(property "Reference" "REF**"
+		(at 3.42 -2.7 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c04a73de-4313-47cf-9268-d8a6ce194aca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_PUSH_1P1T_6x3.5mm_H4.3_APEM_MJTP1243"
+		(at 4.4 3.7 0)
+		(layer "F.Fab")
+		(uuid "677f2ac1-65f9-4525-b9e4-9d06d55845af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "68e25db6-3217-42f6-93c9-5934014976bc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "167fabba-80ab-4951-a876-df2f6e4a2407")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start 0.15 -1.85)
+		(end 0.15 -1.39)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "754d7fc2-a05f-4341-81b8-c84c93bea46b")
+	)
+	(fp_line
+		(start 0.15 -1.39)
+		(end -0.85 -1.39)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0b5d307d-64c0-40d7-b231-17210980d4d7")
+	)
+	(fp_line
+		(start 0.15 1.39)
+		(end 0.15 1.85)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5dc83be2-a7e1-4950-a1e3-2f74e9ccf6aa")
+	)
+	(fp_line
+		(start 0.15 1.85)
+		(end 6.35 1.85)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "406c792d-0c54-4a95-9d45-8fc5d6d3d244")
+	)
+	(fp_line
+		(start 6.35 -1.85)
+		(end 0.15 -1.85)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9c159104-7cc4-41b4-bcb0-80060bcea94b")
+	)
+	(fp_line
+		(start 6.35 -1.85)
+		(end 6.35 -1.39)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bf2c1586-baeb-440a-9276-b80046943405")
+	)
+	(fp_line
+		(start 6.35 1.39)
+		(end 6.35 1.85)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3ed4a9bc-b24e-4242-b474-e7e73d842640")
+	)
+	(fp_rect
+		(start 1.75 -0.55)
+		(end 4.6 0.5)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "efa4a864-42a9-41c1-858b-4df7132c29b0")
+	)
+	(fp_line
+		(start -1.38 -1.38)
+		(end 0 -1.38)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "a09dd9f8-bf52-4cce-8e2e-ef89ca7fa830")
+	)
+	(fp_line
+		(start -1.38 1.38)
+		(end -1.38 -1.38)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6d4fa1fa-c03d-406d-9250-9a2b0954a421")
+	)
+	(fp_line
+		(start -1.38 1.38)
+		(end 0 1.38)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "a4473721-9060-44f1-a285-bbeb9e00fa5c")
+	)
+	(fp_line
+		(start 0 -2)
+		(end 0 -1.38)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "6347a80a-0a02-4421-8946-f30d717df4d1")
+	)
+	(fp_line
+		(start 0 -2)
+		(end 6.5 -2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "25707e48-8874-45e4-8abb-b664a9284585")
+	)
+	(fp_line
+		(start 0 1.38)
+		(end 0 2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "93e8a4cc-bf79-49d7-b8a2-8bf77f397a26")
+	)
+	(fp_line
+		(start 6.5 -2)
+		(end 6.5 -1.38)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "77716271-7455-4b4d-ab7f-9a509de26a88")
+	)
+	(fp_line
+		(start 6.5 1.38)
+		(end 6.5 2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "46d48896-a1f9-47c2-8054-952765d34246")
+	)
+	(fp_line
+		(start 6.5 2)
+		(end 0 2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fe46bc39-9892-460d-96be-132a61fc2498")
+	)
+	(fp_arc
+		(start 6.5 -1.38)
+		(mid 7.88 0)
+		(end 6.5 1.38)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "93b3c8ad-e1a2-4eb4-b99f-b50aad734919")
+	)
+	(fp_line
+		(start 0.25 1.75)
+		(end 0.25 -1.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d254a56a-2682-4770-908e-73bba3a3d1ac")
+	)
+	(fp_line
+		(start 0.65 -1.75)
+		(end 0.25 -1.35)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "7526d235-81bc-453b-b0bc-b314312317f7")
+	)
+	(fp_line
+		(start 0.65 -1.75)
+		(end 6.25 -1.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b6ae5d29-12f3-4400-a3a8-5405007cdd94")
+	)
+	(fp_line
+		(start 6.25 -1.75)
+		(end 6.25 1.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fcdf423d-46b7-46de-bf8b-c392eca86265")
+	)
+	(fp_line
+		(start 6.25 1.75)
+		(end 0.25 1.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "27aef3be-9fa2-4197-9446-dcd702ab0f8d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 3 0 0)
+		(layer "F.Fab")
+		(uuid "4013e523-d28c-4efc-a6de-7c6fb75383a8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0 90)
+		(size 2.25 2.25)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2759833a-5282-4594-992b-6dc1d7ed103c")
+	)
+	(pad "2" thru_hole circle
+		(at 6.5 0 90)
+		(size 2.25 2.25)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "45568eaf-4d6c-4038-bee1-bd653d928df8")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_1P1T_6x3.5mm_H4.3_APEM_MJTP1243.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
