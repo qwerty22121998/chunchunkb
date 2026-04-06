@@ -6,7 +6,8 @@ Original inspirated by Sofle keyboard, but I want to add more keys (F-rows) and 
 
 ## Images
 
-![image](./assets/chunchunkb.png)
+![Kicad rendered](./assets/chunchunkb.png)
+![Display testing](./assets/testing-disp.jpeg)
 
 `TBA`
 
@@ -19,7 +20,23 @@ Original inspirated by Sofle keyboard, but I want to add more keys (F-rows) and 
 
 ## Firmware
 
-`TBA`
+[chunchunkb-zmk](https://github.com/qwerty22121998/chunchunkb-zmk)
+
+
+## Bill of materials
+- This only include one side of the keyboard, so you need to double the quantity for the whole keyboard.
+
+| Value                                         | Qty |
+|-----------------------------------------------|-----|
+| Nice!nano or similar                          | 1   |
+| Nice!view or oled                             | 1   |
+| SMD 1N4148W                                   | 36  |
+| MX Hotswap socket                             | 35  |
+| SK6812MINI-E                                  | 35  |
+| EC11                                          | 1   |
+| MX1.25 Ultra Thin Battery socket (or smiliar) | 1   |
+| PCM12 Switch or smiliar                       | 1   |
+| Reset switch                                  | 1   |
 
 ### Symbols & footprints
 
