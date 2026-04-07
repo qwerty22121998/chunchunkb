@@ -541,6 +541,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -962,6 +963,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -1383,6 +1385,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -1946,12 +1949,6 @@
 		(path "/7719c498-eb7d-4081-9990-3fe1c15ef3f2")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -3589,6 +3586,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -4010,6 +4008,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -4431,6 +4430,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -4481,7 +4481,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4496,12 +4496,6 @@
 		(path "/e7fac5f4-4bf6-4c07-be8e-e4045202e726")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4565,17 +4559,6 @@
 			(uuid "19704efc-53e6-4b54-9ee7-3c18c77011f5")
 		)
 		(embedded_fonts no)
-		(model "smd\\resistors\\R0603.wrl"
-			(offset
-				(xyz 0 0 0.02539999962)
-			)
-			(scale
-				(xyz 0.5 0.5 0.5)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "chunchunkb:D_SOD-123"
 		(layer "F.Cu")
@@ -5627,12 +5610,6 @@
 		(path "/41856b27-caa5-4d60-a364-603c70de555a")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -5906,7 +5883,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5922,12 +5899,6 @@
 		(path "/a5c7d204-7d43-46bb-8d15-8df242aece59")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6760,12 +6731,6 @@
 		(path "/812cf416-e8dc-41b4-98a0-a8c115c9eaf9")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -7407,6 +7372,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -7472,12 +7438,6 @@
 		(path "/0da48bea-c35a-4ee5-83e2-d34140d13e39")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -8261,12 +8221,6 @@
 		(path "/1403745d-dc64-4086-a754-751c96bb35e1")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -9050,12 +9004,6 @@
 		(path "/977ff1db-19a1-41d0-b3de-1213086486ae")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -9824,7 +9772,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9839,12 +9787,6 @@
 		(path "/deda9bb4-c3a3-4f6d-8a32-361a6f92c8fb")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9908,17 +9850,6 @@
 			(uuid "152d4d83-f2d5-418a-ada7-2135854690ef")
 		)
 		(embedded_fonts no)
-		(model "smd\\resistors\\R0603.wrl"
-			(offset
-				(xyz 0 0 0.02539999962)
-			)
-			(scale
-				(xyz 0.5 0.5 0.5)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "chunchunkb:YS-SK6812MINI-E"
 		(layer "F.Cu")
@@ -9974,12 +9905,6 @@
 		(path "/15fc5e0e-4c6a-4104-996a-8a5ed16792af")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -10621,6 +10546,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -10673,7 +10599,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10684,16 +10610,23 @@
 				)
 			)
 		)
+		(property "Field4" "${REFERENCE}"
+			(at 0 4 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac36616b-34a9-4eb0-b880-13041a17c2af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d479f013-ffbb-4180-aeaf-595c323c9340")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11680,6 +11613,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -11745,12 +11679,6 @@
 		(path "/d048a075-1036-4c81-9dd2-97a057455b95")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -12036,12 +11964,6 @@
 		(path "/af8066f9-0ad8-401d-9e02-cb42db7ef7bb")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -12683,6 +12605,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -13104,6 +13027,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -13525,6 +13449,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -13946,6 +13871,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -15363,6 +15289,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -15784,6 +15711,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -15795,31 +15723,31 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad"
+	(footprint "chunchunkb:HOLE_M2_TH"
 		(layer "F.Cu")
 		(uuid "478b95e8-9acd-4544-bdeb-6c017f4add5f")
 		(at 42.8625 119.0625)
-		(descr "Mounting Hole 2.2mm, M2, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole M2")
 		(property "Reference" "H3"
-			(at 0 -3.15 0)
+			(at 0 -2.54 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "2293d2b2-6a69-437b-a5cc-c024c412d67f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.29972 0.29972)
+					(thickness 0.0762)
 				)
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 3.15 0)
-			(layer "F.Fab")
+			(at 0 2.54 0)
+			(layer "F.SilkS")
+			(hide yes)
 			(uuid "bbf6815d-5319-49a9-8f90-fe07fb0567f0")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.29972 0.29972)
+					(thickness 0.0762)
 				)
 			)
 		)
@@ -15834,7 +15762,7 @@
 				)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15849,54 +15777,14 @@
 		(path "/6d61225d-866b-40a2-9597-1e106b9a3721")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
-		(attr exclude_from_bom)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
-		(fp_circle
-			(center 0 0)
-			(end 2.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "bf0534c7-80da-499a-8fbb-31987fcdb067")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "b33ec3f5-52c6-439e-a930-b78473dc2218")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "8cd6c51b-80a2-434e-9bf3-4a26a08d7c65")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at 0 0)
-			(size 4.4 4.4)
-			(drill 2.2)
+		(pad "" np_thru_hole circle
+			(at 0 0 90)
+			(size 4.1 4.1)
+			(drill 4.1)
 			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(zone_connect 2)
+			(clearance 0.3)
 			(uuid "fae83767-5ded-4459-bc8b-9755dee6e575")
 		)
 		(embedded_fonts no)
@@ -15955,12 +15843,6 @@
 		(path "/72413d3c-571f-42a9-83dc-27c130a8be3f")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -17100,6 +16982,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -17521,6 +17404,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -18084,12 +17968,6 @@
 		(path "/adf4e7a2-55a7-4e95-a478-d0cc0f6635c0")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -18375,12 +18253,6 @@
 		(path "/09ca5719-48df-4fe8-a347-e3fc38b769d0")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -18653,7 +18525,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18664,16 +18536,22 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/SMD_single_row_plus_mounting_pad"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "b18e97b8-4790-4229-96da-604584f63c86")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d9d268b3-9851-40b4-a1c3-f8f8a0bd97a0")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19474,12 +19352,6 @@
 		(path "/3b35d2a3-4aa0-4bf5-9632-ec3ff0b8f0d7")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -20121,6 +19993,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -20186,12 +20059,6 @@
 		(path "/d9a5d8e0-96bb-42a9-99cc-6a54f61c41fe")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -20833,6 +20700,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -22250,6 +22118,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -22671,6 +22540,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -22736,12 +22606,6 @@
 		(path "/8d929690-6107-4537-9631-e0889f05d17e")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -23383,6 +23247,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -23804,6 +23669,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -23869,12 +23735,6 @@
 		(path "/dc6a534a-3f09-4e04-8741-1621c5921d92")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -24160,12 +24020,6 @@
 		(path "/8b8324cc-34d4-4192-91a2-eaee1f16b183")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -24949,12 +24803,6 @@
 		(path "/ce2b5f4f-8470-4c07-a3c8-98cda4f20c48")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -27232,12 +27080,6 @@
 		(path "/cc22fbd1-0bac-4898-ac54-0af5047c9403")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -28377,6 +28219,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -28442,12 +28285,6 @@
 		(path "/cfb4f78e-f4f4-48d1-9005-5297eabb01bc")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -28733,12 +28570,6 @@
 		(path "/4fce6b25-bdc3-4ab2-87b2-45d083e1a1eb")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -29380,6 +29211,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -29445,12 +29277,6 @@
 		(path "/1eca0da7-ca71-4e07-9484-05752a701406")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -30220,7 +30046,7 @@
 				)
 			)
 		)
-		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30235,12 +30061,6 @@
 		(path "/9da0b030-1d94-458e-84c8-8d4b6d7fd3e6")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "A" "C" "B" "S1" "S2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30783,31 +30603,31 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad"
+	(footprint "chunchunkb:HOLE_M2_TH"
 		(layer "F.Cu")
 		(uuid "9c408fb7-a4e7-4d49-aa3d-d9f20707d42a")
 		(at 119.0625 119.0625)
-		(descr "Mounting Hole 2.2mm, M2, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole M2")
 		(property "Reference" "H4"
-			(at 0 -3.15 0)
+			(at 0 -2.54 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "2a4f5d4f-fe59-48e5-951b-d49fbd65d1f9")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.29972 0.29972)
+					(thickness 0.0762)
 				)
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 3.15 0)
-			(layer "F.Fab")
+			(at 0 2.54 0)
+			(layer "F.SilkS")
+			(hide yes)
 			(uuid "5b8004e0-9be4-46e9-9ab3-ec19e559aabf")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.29972 0.29972)
+					(thickness 0.0762)
 				)
 			)
 		)
@@ -30822,7 +30642,7 @@
 				)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30837,54 +30657,14 @@
 		(path "/93f0b69c-5a44-428a-a850-e2348a4fe350")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
-		(attr exclude_from_bom)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
-		(fp_circle
-			(center 0 0)
-			(end 2.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "565cabcb-447d-4fb4-a799-1a2c8c5592e3")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "b32f6e62-1367-455c-9416-c5ef7679774a")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "babe7785-da61-4a03-8310-a6761371074f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at 0 0)
-			(size 4.4 4.4)
-			(drill 2.2)
+		(pad "" np_thru_hole circle
+			(at 0 0 90)
+			(size 4.1 4.1)
+			(drill 4.1)
 			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(zone_connect 2)
+			(clearance 0.3)
 			(uuid "c8d98004-2ed1-4868-849b-3bd743156bec")
 		)
 		(embedded_fonts no)
@@ -31441,12 +31221,6 @@
 		(path "/d8396a5e-c86f-4827-a850-85cac3d89203")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -32088,6 +31862,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -32509,6 +32284,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -32559,7 +32335,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -32574,12 +32350,6 @@
 		(path "/e7e3b24f-4e0e-42b9-83e5-be9819cdcab5")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32643,17 +32413,6 @@
 			(uuid "a164e57e-05d5-4d54-8bd5-05cc627fa279")
 		)
 		(embedded_fonts no)
-		(model "smd\\resistors\\R0603.wrl"
-			(offset
-				(xyz 0 0 0.02539999962)
-			)
-			(scale
-				(xyz 0.5 0.5 0.5)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "chunchunkb:YS-SK6812MINI-E"
 		(layer "F.Cu")
@@ -32709,12 +32468,6 @@
 		(path "/fd572268-90a3-4f4f-a31f-be8ee7fccbff")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -33498,12 +33251,6 @@
 		(path "/a1902a68-c725-4666-8413-ee15a6edfb23")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -34145,6 +33892,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -34708,12 +34456,6 @@
 		(path "/488e5bd1-0c19-4118-9369-d1271fbaeae9")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -35355,6 +35097,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -35420,12 +35163,6 @@
 		(path "/c13105e5-10d4-4acf-af29-2340bd080b05")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -36155,31 +35892,31 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad"
+	(footprint "chunchunkb:HOLE_M2_TH"
 		(layer "F.Cu")
 		(uuid "c2f330c2-34c8-4172-8c6a-2962eb523978")
 		(at 119.0625 42.8625)
-		(descr "Mounting Hole 2.2mm, M2, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole M2")
 		(property "Reference" "H1"
-			(at 0 -3.15 0)
+			(at 0 -2.54 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "f932e6cc-ba4a-49c8-b658-cb1ac0e4bc3b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.29972 0.29972)
+					(thickness 0.0762)
 				)
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 3.15 0)
-			(layer "F.Fab")
+			(at 0 2.54 0)
+			(layer "F.SilkS")
+			(hide yes)
 			(uuid "fa53b24c-5294-4e2c-bd51-0776824a7799")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.29972 0.29972)
+					(thickness 0.0762)
 				)
 			)
 		)
@@ -36194,7 +35931,7 @@
 				)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36209,54 +35946,14 @@
 		(path "/ca858897-7ba0-4d29-a6d7-5675fa777964")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
-		(attr exclude_from_bom)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
-		(fp_circle
-			(center 0 0)
-			(end 2.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "169c317b-e4ef-4f00-b912-7cf60a2f1696")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "b81046fa-7a55-43b2-9ad0-f5fc88012320")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "53354812-6255-47f5-9b7b-6279b49491be")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at 0 0)
-			(size 4.4 4.4)
-			(drill 2.2)
+		(pad "" np_thru_hole circle
+			(at 0 0 90)
+			(size 4.1 4.1)
+			(drill 4.1)
 			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(zone_connect 2)
+			(clearance 0.3)
 			(uuid "b138499f-301c-4d4e-9f2f-f8780289e6ba")
 		)
 		(embedded_fonts no)
@@ -36315,12 +36012,6 @@
 		(path "/cfe16e42-8346-435d-a3cb-30812a653541")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -36558,7 +36249,7 @@
 		(at 152.995184 23.514824 180)
 		(descr "Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf")
 		(property "Reference" "SW_POWER1"
-			(at 0 -3.2 0)
+			(at 0 -3.2 180)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "08ffea01-9e01-4ddd-a476-abeb5cd3aa9f")
@@ -36570,7 +36261,7 @@
 			)
 		)
 		(property "Value" "SW_POWER"
-			(at 0 4.25 0)
+			(at 0 4.25 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7839fd9b-169b-4cef-8142-4069e6bdcdc2")
@@ -36594,7 +36285,7 @@
 				)
 			)
 		)
-		(property "Description" "Switch, single pole double throw"
+		(property "Description" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36610,12 +36301,6 @@
 		(path "/34fe2958-ecb2-44cf-af9f-11c6f311599b")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "2" "1" "3")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36818,165 +36503,27 @@
 			(layer "B.SilkS")
 			(uuid "cf99bf3a-871f-4603-b045-d86b7b615134")
 		)
-		(fp_line
-			(start 4.4 2.1)
-			(end 4.4 -2.45)
+		(fp_rect
+			(start -4.15 -2.18)
+			(end 4.17 1.83)
 			(stroke
 				(width 0.05)
-				(type solid)
+				(type default)
 			)
+			(fill no)
 			(layer "B.CrtYd")
-			(uuid "fa99533c-d8ae-4857-9ca5-e5bf28e1276b")
+			(uuid "df415481-5818-4023-b60f-fe0aae0cc3e2")
 		)
-		(fp_line
-			(start 4.4 -2.45)
-			(end -4.4 -2.45)
+		(fp_rect
+			(start -4.15 -2.18)
+			(end 4.17 1.83)
 			(stroke
 				(width 0.05)
-				(type solid)
+				(type default)
 			)
-			(layer "B.CrtYd")
-			(uuid "9d0d2a4d-5b3c-4751-83da-0a12da91d13d")
-		)
-		(fp_line
-			(start 1.65 3.4)
-			(end 1.65 2.1)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "9d655c0e-ee53-4114-bda3-5f91a0359b36")
-		)
-		(fp_line
-			(start 1.65 2.1)
-			(end 4.4 2.1)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "050a989c-1745-41bd-ba53-e1365b2407c8")
-		)
-		(fp_line
-			(start -1.65 3.4)
-			(end 1.65 3.4)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "b4ee9e5b-c622-4bb7-bf78-fcb8eaf13335")
-		)
-		(fp_line
-			(start -1.65 2.1)
-			(end -1.65 3.4)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "dcf32a81-1017-46e1-9fff-9c0591ab4b33")
-		)
-		(fp_line
-			(start -4.4 2.1)
-			(end -1.65 2.1)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "ae00e210-1c16-4b74-9fd8-e5a092e2d434")
-		)
-		(fp_line
-			(start -4.4 -2.45)
-			(end -4.4 2.1)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "B.CrtYd")
-			(uuid "29626873-4d78-4ffd-8e9d-2244c585405d")
-		)
-		(fp_line
-			(start 4.4 2.1)
-			(end 1.65 2.1)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
+			(fill no)
 			(layer "F.CrtYd")
-			(uuid "b69b5372-58cb-41f1-bf42-c8d75b466ca7")
-		)
-		(fp_line
-			(start 4.4 -2.45)
-			(end 4.4 2.1)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "81fc0aa0-61b8-4871-a646-7ddf7dc55810")
-		)
-		(fp_line
-			(start 1.65 3.4)
-			(end -1.65 3.4)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "4af7043f-4df9-4e38-b134-edbe95051e8d")
-		)
-		(fp_line
-			(start 1.65 2.1)
-			(end 1.65 3.4)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "bf91a599-4765-4b47-bcc6-cb898f02b536")
-		)
-		(fp_line
-			(start -1.65 3.4)
-			(end -1.65 2.1)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "88781571-29a1-4903-8212-bbffef4b295d")
-		)
-		(fp_line
-			(start -1.65 2.1)
-			(end -4.4 2.1)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "d9aa0729-2d6f-4b90-a45c-c97521576995")
-		)
-		(fp_line
-			(start -4.4 2.1)
-			(end -4.4 -2.45)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "eb032669-4d30-497a-85d0-0024e6c8069b")
-		)
-		(fp_line
-			(start -4.4 -2.45)
-			(end 4.4 -2.45)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "ac8078d4-7f3f-404c-badd-ebb4af93bfe5")
+			(uuid "1cdaf399-892c-4508-bd3f-e235d5a578f7")
 		)
 		(fp_line
 			(start 3.35 1.6)
@@ -37375,12 +36922,6 @@
 		(path "/b74c5ea7-3f7b-45ba-b800-a6c258874a03")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -37612,31 +37153,31 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad"
+	(footprint "chunchunkb:HOLE_M2_TH"
 		(layer "F.Cu")
 		(uuid "cf68d297-c5d6-4a46-b06c-153cc19bdf98")
 		(at 42.8625 42.8625)
-		(descr "Mounting Hole 2.2mm, M2, generated by kicad-footprint-generator mountinghole.py")
-		(tags "mountinghole M2")
 		(property "Reference" "H2"
-			(at 0 -3.15 0)
+			(at 0 -2.54 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9aff80f3-bae7-45a8-a6ba-fc79a2c2b4c5")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.29972 0.29972)
+					(thickness 0.0762)
 				)
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 3.15 0)
-			(layer "F.Fab")
+			(at 0 2.54 0)
+			(layer "F.SilkS")
+			(hide yes)
 			(uuid "522de6d9-1acb-47df-9bb1-d0be7a37bf84")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.29972 0.29972)
+					(thickness 0.0762)
 				)
 			)
 		)
@@ -37651,7 +37192,7 @@
 				)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -37666,54 +37207,14 @@
 		(path "/cc6387d2-c6cd-4ec8-b131-c1cce8502e33")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins)
-			)
-		)
-		(attr exclude_from_bom)
+		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
-		(fp_circle
-			(center 0 0)
-			(end 2.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill no)
-			(layer "Cmts.User")
-			(uuid "d2610c0e-3f28-4389-9e88-efb600c169d9")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "3728dac2-7686-4dee-bfcf-4767a10563d3")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "7d6c2ba3-8ff6-4cf1-9643-f1147525d0a1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at 0 0)
-			(size 4.4 4.4)
-			(drill 2.2)
+		(pad "" np_thru_hole circle
+			(at 0 0 90)
+			(size 4.1 4.1)
+			(drill 4.1)
 			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(zone_connect 2)
+			(clearance 0.3)
 			(uuid "6f7029d5-f616-46b2-99d6-3546c4468f40")
 		)
 		(embedded_fonts no)
@@ -38626,6 +38127,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -39047,6 +38549,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -39112,12 +38615,6 @@
 		(path "/c6ead8cb-a6b0-4d8b-991f-7ca36691edc5")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -40755,6 +40252,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -41318,12 +40816,6 @@
 		(path "/4f62a4bb-b6be-4277-b09a-73cfc55312be")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -42092,7 +41584,7 @@
 				)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -42107,12 +41599,6 @@
 		(path "/eedc8c1d-d56b-4c49-8c60-34f3a1c0ecc4")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42176,17 +41662,6 @@
 			(uuid "3be43b17-e583-444e-b217-229fbe67292e")
 		)
 		(embedded_fonts no)
-		(model "smd\\resistors\\R0603.wrl"
-			(offset
-				(xyz 0 0 0.02539999962)
-			)
-			(scale
-				(xyz 0.5 0.5 0.5)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "chunchunkb:YS-SK6812MINI-E"
 		(layer "F.Cu")
@@ -42242,12 +41717,6 @@
 		(path "/3e6af182-bb07-4aca-a75e-bd809b1219c2")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -42889,6 +42358,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -42954,12 +42424,6 @@
 		(path "/d0edcc45-f96a-4a36-a0c5-61b61378671d")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -43245,12 +42709,6 @@
 		(path "/8857ab24-35b1-41da-b14c-f0bec5ccf426")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -43892,6 +43350,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -43945,7 +43404,7 @@
 				)
 			)
 		)
-		(property "Description" "NRF micro schematic"
+		(property "Description" ""
 			(at 0 0.762 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43961,17 +43420,6 @@
 		(path "/9065cc4d-a3b8-4cff-93a3-b98980c2225e")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "100" "101" "102" "26" "1" "2" "3" "4" "5" "6" "7" "8" "9" "10"
-					"11" "12" "103" "104" "105" "106" "107" "108" "109" "110" "111" "112"
-					"113" "114" "115" "116" "25" "24" "23" "22" "21" "20" "19" "18" "17"
-					"16" "15" "14" "13" "117" "118" "119" "120" "121" "122" "123" "124"
-					"125"
-				)
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45737,6 +45185,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/3dmodels/DSA_Keycap_CherryMX.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 11.5)
 			)
@@ -47296,12 +46745,6 @@
 		(path "/30ba211b-0485-44b3-8e5e-a276381433b8")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "4" "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -48073,7 +47516,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -48089,12 +47532,6 @@
 		(path "/92c5fec8-85b0-4b6d-b826-04aeedcc4948")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48158,17 +47595,6 @@
 			(uuid "ef260b48-2d24-4bf9-bc07-fff841691ef6")
 		)
 		(embedded_fonts no)
-		(model "smd\\resistors\\R0603.wrl"
-			(offset
-				(xyz 0 0 0.02539999962)
-			)
-			(scale
-				(xyz 0.5 0.5 0.5)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "chunchunkb:Jumper"
 		(layer "B.Cu")
@@ -48212,7 +47638,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -48228,12 +47654,6 @@
 		(path "/3cf7747c-14e9-4911-9177-cd29699be499")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48297,17 +47717,6 @@
 			(uuid "00460366-38d0-41c8-bdd8-7bfa5d5ffa6d")
 		)
 		(embedded_fonts no)
-		(model "smd\\resistors\\R0603.wrl"
-			(offset
-				(xyz 0 0 0.02539999962)
-			)
-			(scale
-				(xyz 0.5 0.5 0.5)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "chunchunkb:Jumper"
 		(layer "B.Cu")
@@ -48351,7 +47760,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -48367,12 +47776,6 @@
 		(path "/847faebe-78bf-4bd7-a808-bc9b50d15413")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48436,17 +47839,6 @@
 			(uuid "b2e16429-895c-4751-938f-7b6b955d8904")
 		)
 		(embedded_fonts no)
-		(model "smd\\resistors\\R0603.wrl"
-			(offset
-				(xyz 0 0 0.02539999962)
-			)
-			(scale
-				(xyz 0.5 0.5 0.5)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "chunchunkb:Jumper"
 		(layer "B.Cu")
@@ -48490,7 +47882,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, open"
+		(property "Description" ""
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -48506,12 +47898,6 @@
 		(path "/178ac776-640d-49d1-b330-168486d73c03")
 		(sheetname "/")
 		(sheetfile "chunchunkb.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48575,17 +47961,6 @@
 			(uuid "15ad804b-18fc-4e1c-b927-0f23c9fde3ed")
 		)
 		(embedded_fonts no)
-		(model "smd\\resistors\\R0603.wrl"
-			(offset
-				(xyz 0 0 0.02539999962)
-			)
-			(scale
-				(xyz 0.5 0.5 0.5)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(gr_line
 		(start 21.458269 21.43125)

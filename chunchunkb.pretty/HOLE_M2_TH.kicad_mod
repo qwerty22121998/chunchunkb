@@ -1,0 +1,64 @@
+(footprint "HOLE_M2_TH"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "TH3"
+		(at 0 -2.54 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "8b960474-4a1f-4f45-8cb5-a3381c1597e1")
+		(effects
+			(font
+				(size 0.29972 0.29972)
+				(thickness 0.0762)
+			)
+		)
+	)
+	(property "Value" "HOLE"
+		(at 0 2.54 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "14bd2d43-d2d9-4cdc-ab27-dd50fe58f625")
+		(effects
+			(font
+				(size 0.29972 0.29972)
+				(thickness 0.0762)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8d7124f0-e475-433d-88cc-d9f002bf72b4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7642be24-9b46-4de9-859e-6bbfd9b2a5e2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(sheetfile "SofleKeyboard.kicad_sch")
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(pad "" np_thru_hole circle
+		(at 0 0 90)
+		(size 4.1 4.1)
+		(drill 4.1)
+		(layers "*.Cu" "*.Mask")
+		(clearance 0.3)
+		(uuid "f675d8ca-7972-45ac-8b13-a2007b3e5952")
+	)
+	(embedded_fonts no)
+)

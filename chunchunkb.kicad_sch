@@ -10475,7 +10475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
+		(property "Footprint" "chunchunkb:HOLE_M2_TH"
 			(at 17.78 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -12652,7 +12652,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
+		(property "Footprint" "chunchunkb:HOLE_M2_TH"
 			(at 17.78 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -14792,7 +14792,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
+		(property "Footprint" "chunchunkb:HOLE_M2_TH"
 			(at 17.78 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -15034,7 +15034,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
+		(property "Footprint" "chunchunkb:HOLE_M2_TH"
 			(at 17.78 264.16 0)
 			(hide yes)
 			(show_name no)

@@ -7,7 +7,7 @@
 		(at -2.286 0.127 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "924c32a0-9b60-49d9-b143-d279b53ce141")
+		(uuid "d565c289-2664-45fa-a33c-11816e8f3a41")
 		(effects
 			(font
 				(size 0.8128 0.8128)
@@ -19,7 +19,7 @@
 		(at -2.755 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "23fdd92e-bf5a-44b5-91b6-09fe6272b852")
+		(uuid "4ec813c4-903e-415e-9029-eb4e2a9c39cb")
 		(effects
 			(font
 				(size 0.8128 0.8128)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "23d5527e-84c6-4e30-be7e-0d74b63c7267")
+		(uuid "76b9122d-fb67-48c7-966d-af4658e0724c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -42,7 +42,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "bbefa4b7-0b9f-4a38-926c-c3bdd075f99f")
+		(uuid "89ab9369-d184-4ebd-8e4a-1eb0833c04d6")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -59,7 +59,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "e3effa1e-3848-4590-a052-7263480a09d1")
+		(uuid "68b4dbca-5d90-40a0-a94f-e7d3ec99c924")
 	)
 	(fp_line
 		(start -1.143 0.889)
@@ -69,7 +69,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "0a1b9b06-0e5e-4b10-b350-1d5937c37b93")
+		(uuid "230fc15d-8533-413d-b712-dcbc0e20fda6")
 	)
 	(fp_line
 		(start 1.143 -0.889)
@@ -79,7 +79,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "9693e502-204d-4cce-ab2c-1bc3b78dd884")
+		(uuid "cc6d83ef-15e6-47e4-b561-db56b397593c")
 	)
 	(fp_line
 		(start 1.143 0.889)
@@ -89,32 +89,21 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "13340615-19b9-4238-8c5f-532848353e9a")
+		(uuid "f2e8df4c-88aa-4c62-9691-3c5fb3432b31")
 	)
 	(pad "1" smd rect
 		(at -0.50038 0)
 		(size 0.635 1.143)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(clearance 0.1905)
-		(uuid "fc41ac11-19d8-442c-95c6-176e5d122c70")
+		(uuid "d773dee7-8b20-4815-9846-4e3eba260c46")
 	)
 	(pad "2" smd rect
 		(at 0.50038 0)
 		(size 0.635 1.143)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(clearance 0.1905)
-		(uuid "13126fff-3b40-49d8-82a3-133fd6d2909e")
+		(uuid "bc33b6df-077f-44c8-b9c8-0ce9f9607b44")
 	)
 	(embedded_fonts no)
-	(model "smd\\resistors\\R0603.wrl"
-		(offset
-			(xyz 0 0 0.02539999962)
-		)
-		(scale
-			(xyz 0.5 0.5 0.5)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
 )
