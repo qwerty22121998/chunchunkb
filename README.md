@@ -43,6 +43,7 @@ Original inspirated by Sofle keyboard, but I want to add more keys (F-rows) and 
 - <https://github.com/foostan/kbd>
 - <https://github.com/bstiq/nice-nano-kicad>
 - <https://github.com/HookyQR/nice_view_pcb>
+- <https://github.com/tzarc/reversible-kicad/>
 
 ### 3D models
 
