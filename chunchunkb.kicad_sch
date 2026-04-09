@@ -2981,7 +2981,7 @@
 		(uuid "aed734f2-15ac-4076-a93d-1e5c2710cf13")
 	)
 	(no_connect
-		(at 48.26 267.97)
+		(at 60.96 267.97)
 		(uuid "b081fa4d-3e0e-4874-ab52-3b896f7e47df")
 	)
 	(no_connect
@@ -4310,7 +4310,7 @@
 		)
 		(uuid "02aa6f33-fc52-40da-b13f-1ba55faea622")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 51.9877 40.64 0)
+			(at 52.4598 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4478,7 +4478,7 @@
 		)
 		(uuid "217c8166-c92f-4eaa-b302-5730c0ea6500")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.2058 66.04 0)
+			(at 50.3282 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4502,7 +4502,7 @@
 		)
 		(uuid "21f59c1a-305e-47b9-b8bd-de4af640cdcb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.7709 66.04 0)
+			(at 102.0718 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4526,7 +4526,7 @@
 		)
 		(uuid "23bff41a-d2ec-41da-a187-ee413ea27c7a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.2058 63.5 0)
+			(at 50.3282 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4598,7 +4598,7 @@
 		)
 		(uuid "462ea91d-1611-4229-91cd-f50ac6596304")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.2058 53.34 0)
+			(at 50.3282 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4670,7 +4670,7 @@
 		)
 		(uuid "5528b901-30a1-463b-a813-f6158fead14d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.9523 50.8 0)
+			(at 102.0718 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4766,7 +4766,7 @@
 		)
 		(uuid "97230538-42b7-40cd-a575-ffd3e104c0ea")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.7709 55.88 0)
+			(at 102.0718 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4814,7 +4814,7 @@
 		)
 		(uuid "b1cbda11-2bf0-445e-addd-d56a042345bf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.7709 60.96 0)
+			(at 102.0718 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4862,7 +4862,7 @@
 		)
 		(uuid "b5a04549-37bf-47a0-af4d-662dcb453eae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.2058 60.96 0)
+			(at 50.3282 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4958,7 +4958,7 @@
 		)
 		(uuid "c0f5e3a9-c3f7-4d0e-a91c-8fe4605cea61")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.7709 53.34 0)
+			(at 102.0718 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5006,7 +5006,7 @@
 		)
 		(uuid "c21b4a87-b539-4414-a0a6-6f7ceca2e734")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.7709 58.42 0)
+			(at 102.0718 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5030,7 +5030,7 @@
 		)
 		(uuid "c5d1393f-16c5-4af8-9fae-e3b381bbe5af")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.2058 55.88 0)
+			(at 50.3282 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5126,7 +5126,7 @@
 		)
 		(uuid "d17f9246-65d8-42cb-8d0b-4a3c8fae245e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.2058 58.42 0)
+			(at 50.3282 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5140,17 +5140,17 @@
 	)
 	(global_label "SW31B"
 		(shape input)
-		(at 166.37 133.35 90)
+		(at 166.37 133.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "d5a0e6df-2177-4156-8070-4d85afbad100")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.37 125.2582 90)
+			(at 158.2782 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5158,7 +5158,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
@@ -5198,7 +5198,7 @@
 		)
 		(uuid "e3c1add3-4b95-4b7c-a95e-b96542a1cd1b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.7709 63.5 0)
+			(at 102.0718 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5246,7 +5246,7 @@
 		)
 		(uuid "e6a4b318-201a-4f8f-ac27-650c0deaab18")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.7709 48.26 0)
+			(at 102.0718 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5939,14 +5939,14 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 66.04 137.16 0)
+			(at 60.96 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -6095,25 +6095,25 @@
 		(fields_autoplaced yes)
 		(uuid "13a738ff-0eb2-438b-aea0-dc8ffc3039c8")
 		(property "Reference" "D10"
-			(at 210.82 64.77 90)
+			(at 205.74 64.77 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 210.82 67.31 90)
+			(at 205.74 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -6479,25 +6479,25 @@
 		(fields_autoplaced yes)
 		(uuid "174072b9-7412-4fbc-8730-b000efabc916")
 		(property "Reference" "D8"
-			(at 182.88 64.77 90)
+			(at 177.8 64.77 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 182.88 67.31 90)
+			(at 177.8 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -6646,94 +6646,6 @@
 			(project "chunchunkb"
 				(path "/c64465b6-eb49-4a63-b501-311556755a54"
 					(reference "JP8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
-		(at 54.61 267.97 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "18b30bae-c202-40ab-8b76-2ac9345ae8bb")
-		(property "Reference" "LED36"
-			(at 54.61 257.81 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 0.7366 0.7366)
-				)
-			)
-		)
-		(property "Value" "YS-SK6812MINI-E"
-			(at 54.61 260.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 0.7366 0.7366)
-				)
-			)
-		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
-			(at 52.07 274.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 52.07 274.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 54.61 267.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fb55b6dc-0f54-4c67-85fa-525929f953a7")
-		)
-		(pin "4"
-			(uuid "c6a6ff8d-f84f-40ec-8672-dce52506678e")
-		)
-		(pin "3"
-			(uuid "3db1ce42-b720-4f5b-b566-1499742e61ef")
-		)
-		(pin "2"
-			(uuid "f3d66fd3-fd5e-4bfa-8cef-c6578458ed8c")
-		)
-		(instances
-			(project "chunchunkb"
-				(path "/c64465b6-eb49-4a63-b501-311556755a54"
-					(reference "LED36")
 					(unit 1)
 				)
 			)
@@ -6912,25 +6824,25 @@
 		(fields_autoplaced yes)
 		(uuid "1c5db3b5-d54e-458b-bb22-9f09cf071f86")
 		(property "Reference" "D17"
-			(at 224.79 82.55 90)
+			(at 219.71 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 224.79 85.09 90)
+			(at 219.71 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -7369,25 +7281,25 @@
 		(fields_autoplaced yes)
 		(uuid "238fa7fe-0dd8-4916-ada2-faa7b0321e97")
 		(property "Reference" "D16"
-			(at 210.82 82.55 90)
+			(at 205.74 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 210.82 85.09 90)
+			(at 205.74 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -7580,7 +7492,7 @@
 		(fields_autoplaced yes)
 		(uuid "30ba211b-0485-44b3-8e5e-a276381433b8")
 		(property "Reference" "LED34"
-			(at 87.63 257.81 0)
+			(at 87.63 275.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7590,7 +7502,7 @@
 			)
 		)
 		(property "Value" "YS-SK6812MINI-E"
-			(at 87.63 260.35 0)
+			(at 87.63 278.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9071,25 +8983,25 @@
 		(fields_autoplaced yes)
 		(uuid "521b010c-3595-46c3-9c0b-c09b7efecfc4")
 		(property "Reference" "D5"
-			(at 224.79 46.99 90)
+			(at 219.71 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 224.79 49.53 90)
+			(at 219.71 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -9281,25 +9193,25 @@
 		(fields_autoplaced yes)
 		(uuid "52bf097c-6f86-4825-ace6-2694f3e96f5a")
 		(property "Reference" "D21"
-			(at 196.85 100.33 90)
+			(at 191.77 100.33 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 196.85 102.87 90)
+			(at 191.77 102.87 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -9367,86 +9279,6 @@
 			(project "chunchunkb"
 				(path "/c64465b6-eb49-4a63-b501-311556755a54"
 					(reference "D21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 161.29 133.35 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "52f1fe82-7599-46bc-b9cf-3c634207f659")
-		(property "Reference" "SW31"
-			(at 161.29 125.73 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 161.29 128.27 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
-			(at 161.29 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 161.29 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 161.29 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a4853f2d-46bb-4395-a05a-ed7c17c63fbc")
-		)
-		(pin "1"
-			(uuid "ef4b1d34-467e-41ad-b64a-bd7335f647b2")
-		)
-		(instances
-			(project "chunchunkb"
-				(path "/c64465b6-eb49-4a63-b501-311556755a54"
-					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -9731,25 +9563,25 @@
 		(fields_autoplaced yes)
 		(uuid "63169ff1-cafc-462e-a84f-02a88942d113")
 		(property "Reference" "D28"
-			(at 210.82 118.11 90)
+			(at 205.74 118.11 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 210.82 120.65 90)
+			(at 205.74 120.65 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -10075,25 +9907,25 @@
 		(fields_autoplaced yes)
 		(uuid "6b127445-1b61-497b-bccb-4263293e6888")
 		(property "Reference" "D23"
-			(at 224.79 100.33 90)
+			(at 219.71 100.33 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 224.79 102.87 90)
+			(at 219.71 102.87 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -10179,7 +10011,7 @@
 		(fields_autoplaced yes)
 		(uuid "6d61225d-866b-40a2-9597-1e106b9a3721")
 		(property "Reference" "H3"
-			(at 20.32 270.5099 0)
+			(at 20.32 270.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10190,7 +10022,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 20.32 273.0499 0)
+			(at 20.32 273.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10337,7 +10169,7 @@
 		(fields_autoplaced yes)
 		(uuid "72413d3c-571f-42a9-83dc-27c130a8be3f")
 		(property "Reference" "LED33"
-			(at 104.14 257.81 0)
+			(at 104.14 275.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10347,7 +10179,7 @@
 			)
 		)
 		(property "Value" "YS-SK6812MINI-E"
-			(at 104.14 260.35 0)
+			(at 104.14 278.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10504,25 +10336,25 @@
 		(fields_autoplaced yes)
 		(uuid "757b0d39-de33-480b-8b17-abe84003f025")
 		(property "Reference" "D20"
-			(at 182.88 100.33 90)
+			(at 177.8 100.33 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 182.88 102.87 90)
+			(at 177.8 102.87 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -10882,25 +10714,25 @@
 		(fields_autoplaced yes)
 		(uuid "7a77fe9f-25d2-4b72-a95f-59eeb12f4977")
 		(property "Reference" "D11"
-			(at 224.79 64.77 90)
+			(at 219.71 64.77 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 224.79 67.31 90)
+			(at 219.71 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -11787,25 +11619,25 @@
 		(fields_autoplaced yes)
 		(uuid "8e07ea71-5c89-438d-9de5-d300bd31304b")
 		(property "Reference" "D9"
-			(at 196.85 64.77 90)
+			(at 191.77 64.77 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 196.85 67.31 90)
+			(at 191.77 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -11990,7 +11822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:ProMicro_R"
+		(property "Footprint" "chunchunkb:ProMicro_R2"
 			(at 102.87 115.57 90)
 			(hide yes)
 			(show_name no)
@@ -12287,7 +12119,7 @@
 		(fields_autoplaced yes)
 		(uuid "93f0b69c-5a44-428a-a850-e2348a4fe350")
 		(property "Reference" "H4"
-			(at 20.32 276.8599 0)
+			(at 20.32 276.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12298,7 +12130,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 20.32 279.3999 0)
+			(at 20.32 279.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12556,25 +12388,25 @@
 		(fields_autoplaced yes)
 		(uuid "9aa28a81-a66d-498b-88f8-9b5633146f47")
 		(property "Reference" "D22"
-			(at 210.82 100.33 90)
+			(at 205.74 100.33 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 210.82 102.87 90)
+			(at 205.74 102.87 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -12737,6 +12569,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "9b883436-862d-4c74-bdca-c63b80611658")
 		(property "Reference" "#PWR06"
 			(at 35.56 43.18 0)
@@ -12750,7 +12583,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 36.83 45.974 90)
+			(at 40.64 39.37 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12814,9 +12647,10 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "9da0b030-1d94-458e-84c8-8d4b6d7fd3e6")
-		(property "Reference" "RE1"
-			(at 85.09 129.54 0)
+		(property "Reference" "SW31"
+			(at 81.28 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12886,7 +12720,7 @@
 		(instances
 			(project "chunchunkb"
 				(path "/c64465b6-eb49-4a63-b501-311556755a54"
-					(reference "RE1")
+					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -13634,25 +13468,25 @@
 		(fields_autoplaced yes)
 		(uuid "af5be4c7-d90c-4a34-af74-def151baf8a7")
 		(property "Reference" "D3"
-			(at 196.85 46.99 90)
+			(at 191.77 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 196.85 49.53 90)
+			(at 191.77 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -13826,25 +13660,25 @@
 		(fields_autoplaced yes)
 		(uuid "b0c55bd9-aa7b-4d60-93a6-af2c7f5dc075")
 		(property "Reference" "D4"
-			(at 210.82 46.99 90)
+			(at 205.74 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 210.82 49.53 90)
+			(at 205.74 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
@@ -14342,7 +14176,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.61 274.32 0)
+		(at 71.12 274.32 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -14354,7 +14188,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9f83300-ead2-4e84-ba49-d149a1872b30")
 		(property "Reference" "#PWR012"
-			(at 54.61 280.67 0)
+			(at 71.12 280.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14365,7 +14199,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 57.15 275.59 0)
+			(at 73.66 275.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14376,7 +14210,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 274.32 0)
+			(at 71.12 274.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14387,7 +14221,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 274.32 0)
+			(at 71.12 274.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14398,7 +14232,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 274.32 0)
+			(at 71.12 274.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14433,7 +14267,7 @@
 		(fields_autoplaced yes)
 		(uuid "ca858897-7ba0-4d29-a6d7-5675fa777964")
 		(property "Reference" "H1"
-			(at 20.32 256.5399 0)
+			(at 20.32 256.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14444,7 +14278,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 20.32 259.0799 0)
+			(at 20.32 259.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14520,14 +14354,13 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.81 39.37 0)
+			(at 128.27 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -14675,7 +14508,7 @@
 		(fields_autoplaced yes)
 		(uuid "cc6387d2-c6cd-4ec8-b131-c1cce8502e33")
 		(property "Reference" "H2"
-			(at 20.32 262.8899 0)
+			(at 20.32 262.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14686,7 +14519,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 20.32 265.4299 0)
+			(at 20.32 265.43 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14841,7 +14674,7 @@
 		(fields_autoplaced yes)
 		(uuid "cfb4f78e-f4f4-48d1-9005-5297eabb01bc")
 		(property "Reference" "LED32"
-			(at 120.65 257.81 0)
+			(at 120.65 275.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14851,7 +14684,7 @@
 			)
 		)
 		(property "Value" "YS-SK6812MINI-E"
-			(at 120.65 260.35 0)
+			(at 120.65 278.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15016,7 +14849,7 @@
 		(fields_autoplaced yes)
 		(uuid "d048a075-1036-4c81-9dd2-97a057455b95")
 		(property "Reference" "LED25"
-			(at 54.61 242.57 0)
+			(at 54.61 260.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15026,7 +14859,7 @@
 			)
 		)
 		(property "Value" "YS-SK6812MINI-E"
-			(at 54.61 245.11 0)
+			(at 54.61 262.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15526,7 +15359,7 @@
 		(fields_autoplaced yes)
 		(uuid "d9a5d8e0-96bb-42a9-99cc-6a54f61c41fe")
 		(property "Reference" "LED31"
-			(at 137.16 257.81 0)
+			(at 137.16 275.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15536,7 +15369,7 @@
 			)
 		)
 		(property "Value" "YS-SK6812MINI-E"
-			(at 137.16 260.35 0)
+			(at 137.16 278.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15695,25 +15528,25 @@
 		(fields_autoplaced yes)
 		(uuid "da725131-add6-49e2-98dd-84ca51e83dc8")
 		(property "Reference" "D29"
-			(at 224.79 118.11 90)
+			(at 219.71 118.11 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 224.79 120.65 90)
+			(at 219.71 120.65 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "chunchunkb:D_SOD-123"
