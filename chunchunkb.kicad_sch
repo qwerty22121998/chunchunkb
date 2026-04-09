@@ -4612,7 +4612,7 @@
 	)
 	(global_label "MOSI{slash}SDA"
 		(shape input)
-		(at 87.63 97.79 0)
+		(at 87.63 100.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4622,7 +4622,7 @@
 		)
 		(uuid "4c9a67dd-7e80-4117-8dc1-2321bc214a86")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 98.9192 97.79 0)
+			(at 98.9192 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4684,7 +4684,7 @@
 	)
 	(global_label "SCK{slash}SCL"
 		(shape input)
-		(at 87.63 100.33 0)
+		(at 87.63 97.79 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4694,7 +4694,7 @@
 		)
 		(uuid "7f1c28e1-99d5-4494-83de-a6f7b801f2e5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.8534 100.33 0)
+			(at 97.8534 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4732,7 +4732,7 @@
 	)
 	(global_label "SCK{slash}SCL"
 		(shape input)
-		(at 87.63 115.57 0)
+		(at 87.63 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4742,7 +4742,7 @@
 		)
 		(uuid "952201b9-6285-4f92-b27b-dfbb878d7120")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.8534 115.57 0)
+			(at 97.8534 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4900,7 +4900,7 @@
 	)
 	(global_label "MOSI{slash}SDA"
 		(shape input)
-		(at 87.63 113.03 0)
+		(at 87.63 115.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4910,7 +4910,7 @@
 		)
 		(uuid "bf96aaca-f976-4bb4-a503-ee30aca57094")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 98.9192 113.03 0)
+			(at 98.9192 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
