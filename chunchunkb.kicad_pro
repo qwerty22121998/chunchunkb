@@ -144,7 +144,7 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.2,
-        "min_via_annular_width": 0.1,
+        "min_via_annular_width": 0.15,
         "min_via_diameter": 0.4,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
@@ -490,7 +490,8 @@
       "Keebio-Parts",
       "kbd",
       "marbastlib-xp-promicroish",
-      "Keyboard_CS"
+      "Keyboard_CS",
+      "key-switches"
     ],
     "pinned_symbol_libs": [
       "chunchunkb",
@@ -521,7 +522,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "tuning_profile": "",
-        "via_diameter": 0.4,
+        "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
       },
@@ -537,7 +538,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
         "tuning_profile": "",
-        "via_diameter": 0.65,
+        "via_diameter": 0.6,
         "via_drill": 0.3
       },
       {
@@ -552,7 +553,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
         "tuning_profile": "",
-        "via_diameter": 0.65,
+        "via_diameter": 0.6,
         "via_drill": 0.3
       }
     ],

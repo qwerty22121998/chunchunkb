@@ -3100,7 +3100,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 113.03) (xy 72.39 113.03)
+			(xy 77.47 110.49) (xy 72.39 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3270,7 +3270,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 115.57) (xy 69.85 115.57)
+			(xy 77.47 113.03) (xy 69.85 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3400,7 +3400,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 115.57) (xy 69.85 90.17)
+			(xy 69.85 113.03) (xy 69.85 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3480,7 +3480,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 113.03) (xy 72.39 92.71)
+			(xy 72.39 110.49) (xy 72.39 92.71)
 		)
 		(stroke
 			(width 0)
@@ -4732,7 +4732,7 @@
 	)
 	(global_label "SCK{slash}SCL"
 		(shape input)
-		(at 87.63 113.03 0)
+		(at 87.63 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4742,7 +4742,7 @@
 		)
 		(uuid "952201b9-6285-4f92-b27b-dfbb878d7120")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.8534 113.03 0)
+			(at 97.8534 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4900,7 +4900,7 @@
 	)
 	(global_label "MOSI{slash}SDA"
 		(shape input)
-		(at 87.63 115.57 0)
+		(at 87.63 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4910,7 +4910,7 @@
 		)
 		(uuid "bf96aaca-f976-4bb4-a503-ee30aca57094")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 98.9192 115.57 0)
+			(at 98.9192 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5413,7 +5413,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 175.895 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -5518,7 +5518,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 161.925 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -6116,7 +6116,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 203.835 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -6308,7 +6308,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 189.865 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -6500,7 +6500,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 175.895 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -6572,7 +6572,7 @@
 	)
 	(symbol
 		(lib_id "chunchunkb:jumper")
-		(at 82.55 115.57 0)
+		(at 82.55 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6583,7 +6583,7 @@
 		(fields_autoplaced yes)
 		(uuid "178ac776-640d-49d1-b330-168486d73c03")
 		(property "Reference" "JP8"
-			(at 82.55 115.57 0)
+			(at 82.55 113.03 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -6593,7 +6593,7 @@
 			)
 		)
 		(property "Value" "jumper"
-			(at 82.55 117.856 0)
+			(at 82.55 115.316 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6604,7 +6604,7 @@
 			)
 		)
 		(property "Footprint" "chunchunkb:Jumper"
-			(at 82.55 115.57 0)
+			(at 82.55 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6615,7 +6615,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 115.57 0)
+			(at 82.55 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6626,7 +6626,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, open"
-			(at 82.55 115.57 0)
+			(at 82.55 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6845,7 +6845,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 217.805 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -7117,7 +7117,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 231.775 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7302,7 +7302,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 203.835 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -7407,7 +7407,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 175.895 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -7759,7 +7759,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 231.775 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -7864,7 +7864,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 217.805 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -8899,7 +8899,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 231.775 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -9004,7 +9004,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 217.805 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9109,7 +9109,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 161.925 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -9214,7 +9214,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 189.865 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -9319,7 +9319,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 161.925 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -9584,7 +9584,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 203.835 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -9928,7 +9928,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 217.805 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -10357,7 +10357,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 175.895 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -10550,7 +10550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 189.865 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -10735,7 +10735,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 217.805 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -10920,7 +10920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 161.925 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -11105,7 +11105,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 189.865 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -11265,7 +11265,7 @@
 	)
 	(symbol
 		(lib_id "chunchunkb:jumper")
-		(at 82.55 113.03 0)
+		(at 82.55 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11276,7 +11276,7 @@
 		(fields_autoplaced yes)
 		(uuid "847faebe-78bf-4bd7-a808-bc9b50d15413")
 		(property "Reference" "JP7"
-			(at 82.55 113.03 0)
+			(at 82.55 110.49 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -11286,7 +11286,7 @@
 			)
 		)
 		(property "Value" "jumper"
-			(at 82.55 115.316 0)
+			(at 82.55 112.776 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11297,7 +11297,7 @@
 			)
 		)
 		(property "Footprint" "chunchunkb:Jumper"
-			(at 82.55 113.03 0)
+			(at 82.55 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11308,7 +11308,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 113.03 0)
+			(at 82.55 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11319,7 +11319,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, open"
-			(at 82.55 113.03 0)
+			(at 82.55 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11640,7 +11640,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 189.865 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -11822,7 +11822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:ProMicro_R2"
+		(property "Footprint" "chunchunkb:ProMicro DUAL"
 			(at 102.87 115.57 90)
 			(hide yes)
 			(show_name no)
@@ -12217,7 +12217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 231.775 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -12409,7 +12409,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 203.835 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -12761,7 +12761,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 161.925 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13032,7 +13032,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 161.925 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -13297,7 +13297,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 231.775 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -13489,7 +13489,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 189.865 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13681,7 +13681,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 203.835 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -15549,7 +15549,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 217.805 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -16062,7 +16062,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 231.775 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16489,7 +16489,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 203.835 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16594,7 +16594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 175.895 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -17180,7 +17180,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:D_SOD-123"
+		(property "Footprint" "chunchunkb:crkbd-diode"
 			(at 175.895 48.26 0)
 			(hide yes)
 			(show_name no)
