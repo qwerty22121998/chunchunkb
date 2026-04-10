@@ -14,7 +14,7 @@ Original inspirated by Sofle keyboard, but I want to add more keys (F-rows) and 
 ## Specifications
 
 - 70 keys
-- 2 nice!view displays
+- 2 nice!view displays (or 4pin OLED)
 - 2 rotary encoders (EC11)
 - Wireless connection (nice!nano or similar) with ZMK firmware support
 
@@ -43,6 +43,9 @@ Original inspirated by Sofle keyboard, but I want to add more keys (F-rows) and 
 - <https://github.com/foostan/kbd>
 - <https://github.com/bstiq/nice-nano-kicad>
 - <https://github.com/HookyQR/nice_view_pcb>
+- <https://github.com/tzarc/reversible-kicad/>
+- <https://github.com/keebio/Keebio-Parts.pretty>
+- <https://github.com/josefadamcik/SofleKeyboard>
 
 ### 3D models
 
