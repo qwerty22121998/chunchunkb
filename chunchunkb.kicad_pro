@@ -725,7 +725,7 @@
         "uuid": "c64465b6-eb49-4a63-b501-311556755a54"
       }
     ],
-    "used_designators": "BT1",
+    "used_designators": "BT1,LED36",
     "variants": []
   },
   "sheets": [
