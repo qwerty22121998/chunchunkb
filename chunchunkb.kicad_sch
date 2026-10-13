@@ -2981,7 +2981,7 @@
 		(uuid "aed734f2-15ac-4076-a93d-1e5c2710cf13")
 	)
 	(no_connect
-		(at 281.94 118.11)
+		(at 269.24 118.11)
 		(uuid "b081fa4d-3e0e-4874-ab52-3b896f7e47df")
 	)
 	(no_connect
@@ -7262,6 +7262,94 @@
 			(project "chunchunkb"
 				(path "/c64465b6-eb49-4a63-b501-311556755a54"
 					(reference "SW13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "YS-SK6812MINI-E_35")
+		(lib_id "kbd:YS-SK6812MINI-E")
+		(at 275.59 118.11 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "20ada0ee-87cd-4637-8144-dd6438b5ccf8")
+		(property "Reference" "LED36"
+			(at 275.59 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.7366 0.7366)
+				)
+			)
+		)
+		(property "Value" "YS-SK6812MINI-E"
+			(at 275.59 110.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.7366 0.7366)
+				)
+			)
+		)
+		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+			(at 273.05 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 275.59 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ab04d7f9-2b57-491a-b621-a7c61b287829")
+		)
+		(pin "4"
+			(uuid "1c6edce4-3097-4b72-bca2-7a21c87a009c")
+		)
+		(pin "3"
+			(uuid "450e9be8-8e74-4c9b-b8d1-63330b1d872e")
+		)
+		(pin "2"
+			(uuid "e5d723bb-d41b-4b5e-8378-9a8d5b23d785")
+		)
+		(instances
+			(project "chunchunkb"
+				(path "/c64465b6-eb49-4a63-b501-311556755a54"
+					(reference "LED36")
 					(unit 1)
 				)
 			)
@@ -11822,7 +11910,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:ProMicro DUAL"
+		(property "Footprint" "chunchunkb:ProMicro_DUAL"
 			(at 102.87 115.57 90)
 			(hide yes)
 			(show_name no)
@@ -12669,7 +12757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:EC11_Switch"
+		(property "Footprint" "chunchunkb:EC11_MX_Hybrid"
 			(at 77.47 131.826 0)
 			(hide yes)
 			(show_name no)
@@ -14176,7 +14264,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 292.1 124.46 0)
+		(at 275.59 124.46 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -14188,7 +14276,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9f83300-ead2-4e84-ba49-d149a1872b30")
 		(property "Reference" "#PWR012"
-			(at 292.1 130.81 0)
+			(at 275.59 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14199,7 +14287,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 294.64 125.73 0)
+			(at 278.13 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14210,7 +14298,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 292.1 124.46 0)
+			(at 275.59 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14221,7 +14309,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 292.1 124.46 0)
+			(at 275.59 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14232,7 +14320,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 292.1 124.46 0)
+			(at 275.59 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14586,7 +14674,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce2b5f4f-8470-4c07-a3c8-98cda4f20c48")
 		(property "Reference" "LED35"
-			(at 292.1 107.95 0)
+			(at 292.1 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14596,7 +14684,7 @@
 			)
 		)
 		(property "Value" "YS-SK6812MINI-E"
-			(at 292.1 110.49 0)
+			(at 292.1 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14849,7 +14937,7 @@
 		(fields_autoplaced yes)
 		(uuid "d048a075-1036-4c81-9dd2-97a057455b95")
 		(property "Reference" "LED25"
-			(at 275.59 110.49 0)
+			(at 275.59 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14859,7 +14947,7 @@
 			)
 		)
 		(property "Value" "YS-SK6812MINI-E"
-			(at 275.59 113.03 0)
+			(at 275.59 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
