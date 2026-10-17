@@ -1,0 +1,13 @@
+(version 1)
+# Routing style for chunchunkb
+# 1. 45-degree bends only: no corner sharper than a 45-degree bend (no 90-degree corners, no acute kinks)
+#    and no T-junction between two tracks on one layer. Nets branch inside a pad, or across layers at a via.
+#    Checked by the rule below.
+# 2. The same holds through vias: no track may turn more than 45 degrees through a via (a layer change
+#    plus a 90-degree turn is not allowed; a branch leaving a via must leave at 45 degrees to a track that
+#    passes straight through it). KiCad's track_angle check skips layer changes, so check this one with
+#    python3 tools/check_via_bends.py
+# 3. No copper fill islands: GND zones remove islands always; every fill area must join the main body.
+(rule "45-degree bends only"
+  (condition "A.Type == 'Track'")
+  (constraint track_angle (min 134)))

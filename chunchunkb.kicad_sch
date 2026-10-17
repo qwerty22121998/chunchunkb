@@ -163,251 +163,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector_Generic:Conn_01x05"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 0 7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x05"
-				(at 0 -7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Conn_01x05_1_1"
-				(rectangle
-					(start -1.27 6.35)
-					(end 1.27 -6.35)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 5.207)
-					(end 0 4.953)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -4.953)
-					(end 0 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 5.08 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 3.81)
-					(name "Pin_5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:RotaryEncoder_Switch"
 			(pin_names
 				(offset 0.254)
@@ -1452,877 +1207,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "YS-SK6812MINI-E_35"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "LED36"
-				(at -11.43 -3.3481 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 0.7366 0.7366)
-					)
-				)
-			)
-			(property "Value" "YS-SK6812MINI-E"
-				(at -11.43 -2.0781 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 0.7366 0.7366)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 2.54 -6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 2.54 -6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "YS-SK6812MINI-E_35_0_1"
-				(rectangle
-					(start -5.08 5.08)
-					(end 5.08 -5.08)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "YS-SK6812MINI-E_35_1_1"
-				(pin power_in line
-					(at 0 6.35 270)
-					(length 1.27)
-					(hide yes)
-					(name "VDD"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 6.35 0 180)
-					(length 1.27)
-					(name "DOUT"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -6.35 90)
-					(length 1.27)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -6.35 0 0)
-					(length 1.27)
-					(name "DIN"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "chunchunkb:jumper"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "JP"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "jumper"
-				(at 0 -2.286 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Jumper, 2-pole, open"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "Jumper SPST"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "jumper_0_0"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "jumper_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "chunchunkb:nice_nano"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "nice_nano"
-				(at 0 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 26.67 -63.5 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 26.67 -63.5 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "nice_nano_0_1"
-				(rectangle
-					(start -12.7 -21.59)
-					(end 12.7 19.05)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "nice_nano_1_1"
-				(pin input line
-					(at -17.78 13.97 0)
-					(length 5.08)
-					(name "TX0/P0.06"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 11.43 0)
-					(length 5.08)
-					(name "RX1/P0.08"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 8.89 0)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 6.35 0)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 3.81 0)
-					(length 5.08)
-					(name "P0.17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 1.27 0)
-					(length 5.08)
-					(name "P0.20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 -1.27 0)
-					(length 5.08)
-					(name "P0.22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 -3.81 0)
-					(length 5.08)
-					(name "P0.24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 -6.35 0)
-					(length 5.08)
-					(name "P1.00"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 -8.89 0)
-					(length 5.08)
-					(name "P0.11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 -11.43 0)
-					(length 5.08)
-					(name "P1.04"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 -13.97 0)
-					(length 5.08)
-					(name "P1.06"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 17.78 -13.97 180)
-					(length 5.08)
-					(name "NFC1/P0.09"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 17.78 -11.43 180)
-					(length 5.08)
-					(name "NFC2/P0.10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 17.78 -8.89 180)
-					(length 5.08)
-					(name "P1.11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 17.78 -6.35 180)
-					(length 5.08)
-					(name "P1.13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 17.78 -3.81 180)
-					(length 5.08)
-					(name "P1.15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 17.78 -1.27 180)
-					(length 5.08)
-					(name "AIN0/P0.02"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 17.78 1.27 180)
-					(length 5.08)
-					(name "AIN5/P0.29"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 17.78 3.81 180)
-					(length 5.08)
-					(name "AIN7/P0.31"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 17.78 6.35 180)
-					(length 5.08)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 17.78 8.89 180)
-					(length 5.08)
-					(name "RST"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 17.78 11.43 180)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 17.78 13.97 180)
-					(length 5.08)
-					(name "BATIN/P0.04"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -26.67 90)
-					(length 5.08)
-					(name "P1.01"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "31"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -3.81 -26.67 90)
-					(length 5.08)
-					(name "P1.02"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "32"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 0 -26.67 90)
-					(length 5.08)
-					(name "P1.07"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "33"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:GND"
 			(power global)
 			(pin_numbers
@@ -2577,6 +1461,1029 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "chunchun_rev:CC_nice_nano"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "nice!nano"
+				(at 0 -17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "chunchun_rev:CC_nice_nano"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://nicekeyboards.com/docs/nice-nano/pinout-schematic"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Reversible nice!nano v2 (CC_nice_nano). GPIO pin names read 'nano on front|nano on back'; the right half mirrors them in firmware. Hidden pin numbers 5-20 are the footprint holes. P0.06/P0.08/BAT/GND/RST/VCC are the solder-jumper pads around holes 1-4/21-24; H* are those holes (no connect)."
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "nice!nano nRF52840 pro micro reversible"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CC_nice_nano_0_1"
+				(rectangle
+					(start -15.24 16.51)
+					(end 15.24 -16.51)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "CC_nice_nano_1_1"
+				(pin bidirectional line
+					(at -17.78 13.97 0)
+					(length 2.54)
+					(name "P0.06"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "P0.06"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 11.43 0)
+					(length 2.54)
+					(name "P0.08"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "P0.08"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -17.78 8.89 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 17.78 13.97 180)
+					(length 2.54)
+					(name "BAT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "BAT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 8.89 180)
+					(length 2.54)
+					(name "RST"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "RST"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 17.78 6.35 180)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 3.81 0)
+					(length 2.54)
+					(name "P0.17|P0.31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 1.27 0)
+					(length 2.54)
+					(name "P0.20|P0.29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -1.27 0)
+					(length 2.54)
+					(name "P0.22|P0.02"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -3.81 0)
+					(length 2.54)
+					(name "P0.24|P1.15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -6.35 0)
+					(length 2.54)
+					(name "P1.00|P1.13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -8.89 0)
+					(length 2.54)
+					(name "P0.11|P1.11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -11.43 0)
+					(length 2.54)
+					(name "P1.04|P0.10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -13.97 0)
+					(length 2.54)
+					(name "P1.06|P0.09"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -13.97 180)
+					(length 2.54)
+					(name "P0.09|P1.06"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -11.43 180)
+					(length 2.54)
+					(name "P0.10|P1.04"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -8.89 180)
+					(length 2.54)
+					(name "P1.11|P0.11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -6.35 180)
+					(length 2.54)
+					(name "P1.13|P1.00"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -3.81 180)
+					(length 2.54)
+					(name "P1.15|P0.24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -1.27 180)
+					(length 2.54)
+					(name "P0.02|P0.22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 1.27 180)
+					(length 2.54)
+					(name "P0.29|P0.20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 3.81 180)
+					(length 2.54)
+					(name "P0.31|P0.17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -8.89 -16.51 90)
+					(length 0)
+					(hide yes)
+					(name "H1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -6.35 -16.51 90)
+					(length 0)
+					(hide yes)
+					(name "H2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -3.81 -16.51 90)
+					(length 0)
+					(hide yes)
+					(name "H3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -1.27 -16.51 90)
+					(length 0)
+					(hide yes)
+					(name "H4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 1.27 -16.51 90)
+					(length 0)
+					(hide yes)
+					(name "H21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 3.81 -16.51 90)
+					(length 0)
+					(hide yes)
+					(name "H22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 6.35 -16.51 90)
+					(length 0)
+					(hide yes)
+					(name "H23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 8.89 -16.51 90)
+					(length 0)
+					(hide yes)
+					(name "H24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "chunchun_rev:CC_Display_5pin"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 8.89 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "nice!view"
+				(at 0 -8.89 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "chunchun_rev:CC_Display_5pin"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Reversible nice!view (pins 1-5) or 128x32 OLED (pins 1-4 front, 2-5 back) header (CC_Display_5pin). Pin names read 'display on front|display on back' (MOSI = SDA on an OLED). SCK/GND are the solder-jumper pads for holes 2/4; H2/H4 are those holes (no connect)."
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "nice!view OLED display header reversible"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CC_Display_5pin_0_1"
+				(rectangle
+					(start -5.08 7.62)
+					(end 5.08 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "CC_Display_5pin_1_1"
+				(pin input line
+					(at 10.16 5.08 180)
+					(length 5.08)
+					(name "MOSI|CS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 2.54 180)
+					(length 5.08)
+					(name "SCK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "SCK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 10.16 0 180)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 10.16 -2.54 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 -5.08 180)
+					(length 5.08)
+					(name "CS|MOSI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -2.54 -7.62 90)
+					(length 0)
+					(hide yes)
+					(name "H2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 2.54 -7.62 90)
+					(length 0)
+					(hide yes)
+					(name "H4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "chunchun_rev:CC_SK6812MINI-E"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "LED"
+				(at 0 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SK6812MINI-E"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "SK6812MINI-E reverse-mount addressable RGB LED (CC_SK6812MINI-E). Power pins are hidden and join the VCC and GND nets by name."
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "SK6812 WS2812 RGB LED reverse mount"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CC_SK6812MINI-E_0_1"
+				(rectangle
+					(start -5.08 5.08)
+					(end 5.08 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "CC_SK6812MINI-E_1_1"
+				(pin power_in line
+					(at 0 6.35 270)
+					(length 1.27)
+					(hide yes)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 6.35 0 180)
+					(length 1.27)
+					(name "DOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -6.35 90)
+					(length 1.27)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -6.35 0 0)
+					(length 1.27)
+					(name "DIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(junction
 		(at 198.12 97.79)
@@ -2651,12 +2558,6 @@
 		(uuid "23c9ddbe-2eb3-4b93-83c3-7e36049b77ce")
 	)
 	(junction
-		(at 72.39 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "24dd8e90-69c5-426e-97c8-06c587fdb204")
-	)
-	(junction
 		(at 212.09 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2703,12 +2604,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "40869777-2beb-4768-9558-18cf79f1d415")
-	)
-	(junction
-		(at 53.34 43.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4b9ade32-11b7-469e-b744-6f62f8084bfe")
 	)
 	(junction
 		(at 184.15 115.57)
@@ -2807,12 +2702,6 @@
 		(uuid "99bd838d-58c3-4907-bbbe-7932e5c24c1f")
 	)
 	(junction
-		(at 74.93 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9fe9b0d5-d180-4d7a-ae0a-2c782b0a06bc")
-	)
-	(junction
 		(at 180.34 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2879,12 +2768,6 @@
 		(uuid "d01a4879-e8ca-44a1-81ab-5a30684c6235")
 	)
 	(junction
-		(at 77.47 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d1421d02-98b2-4be9-a64e-29e0a1ec5c4f")
-	)
-	(junction
 		(at 194.31 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2939,12 +2822,6 @@
 		(uuid "f33097c9-89db-4195-baef-026f10526f72")
 	)
 	(junction
-		(at 69.85 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f4264ed6-96db-43e6-83eb-1e79eab21d8e")
-	)
-	(junction
 		(at 222.25 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2969,24 +2846,12 @@
 		(uuid "f92bc891-6830-4795-ba6a-c09e6b775a74")
 	)
 	(no_connect
-		(at 76.2 78.74)
-		(uuid "419e8e6d-36f5-4b6b-bc83-3126f178098e")
-	)
-	(no_connect
 		(at 124.46 40.64)
 		(uuid "77f74e36-e940-4774-9547-23cc7e1e8803")
 	)
 	(no_connect
-		(at 72.39 78.74)
-		(uuid "aed734f2-15ac-4076-a93d-1e5c2710cf13")
-	)
-	(no_connect
 		(at 269.24 118.11)
 		(uuid "b081fa4d-3e0e-4874-ab52-3b896f7e47df")
-	)
-	(no_connect
-		(at 68.58 78.74)
-		(uuid "b687ff53-1569-4b05-a126-4a9149217f32")
 	)
 	(wire
 		(pts
@@ -3100,26 +2965,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 110.49) (xy 72.39 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f873dfc-e043-4452-97a5-147c1ce72178")
-	)
-	(wire
-		(pts
-			(xy 68.58 95.25) (xy 87.63 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11d4b567-39b1-4a23-bade-28ef9b7b56e3")
-	)
-	(wire
-		(pts
 			(xy 347.98 87.63) (xy 351.79 87.63)
 		)
 		(stroke
@@ -3137,16 +2982,6 @@
 			(type default)
 		)
 		(uuid "155057b1-d667-432f-916f-5c29699829fe")
-	)
-	(wire
-		(pts
-			(xy 58.42 45.72) (xy 53.34 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15518c99-e718-4c8b-bce8-b8c0fc75eee2")
 	)
 	(wire
 		(pts
@@ -3270,16 +3105,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 113.03) (xy 69.85 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3939dab3-5a16-4f27-84dd-8eccbf47fda6")
-	)
-	(wire
-		(pts
 			(xy 198.12 35.56) (xy 198.12 44.45)
 		)
 		(stroke
@@ -3300,16 +3125,6 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 92.71) (xy 77.47 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d41c296-bd25-40ff-ad6f-c312c3e414dc")
-	)
-	(wire
-		(pts
 			(xy 298.45 57.15) (xy 302.26 57.15)
 		)
 		(stroke
@@ -3327,26 +3142,6 @@
 			(type default)
 		)
 		(uuid "3f7dcb19-5c19-4225-a089-1fc9e92320d0")
-	)
-	(wire
-		(pts
-			(xy 53.34 45.72) (xy 53.34 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43fb92c2-138f-49c7-b97e-97642f02108b")
-	)
-	(wire
-		(pts
-			(xy 74.93 97.79) (xy 77.47 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44149abc-05a4-4efa-8b7c-c3f5b2bc1c64")
 	)
 	(wire
 		(pts
@@ -3397,16 +3192,6 @@
 			(type default)
 		)
 		(uuid "4a5609a3-3d71-4c8c-a185-af68b2b9bdaf")
-	)
-	(wire
-		(pts
-			(xy 69.85 113.03) (xy 69.85 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c384b09-c11c-44e6-ac81-3d6a3616ac34")
 	)
 	(wire
 		(pts
@@ -3480,16 +3265,6 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 110.49) (xy 72.39 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c23b606-2f3a-4cfc-9e87-9087c02637d7")
-	)
-	(wire
-		(pts
 			(xy 222.25 140.97) (xy 236.22 140.97)
 		)
 		(stroke
@@ -3517,16 +3292,6 @@
 			(type default)
 		)
 		(uuid "60add7f7-662d-4f4e-b017-9f70140ee9d0")
-	)
-	(wire
-		(pts
-			(xy 77.47 107.95) (xy 74.93 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64b2fc6a-4542-46c5-b75d-81bad2899414")
 	)
 	(wire
 		(pts
@@ -3560,16 +3325,6 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 92.71) (xy 72.39 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "706bacbd-e37c-4658-8715-c5c1215d9bda")
-	)
-	(wire
-		(pts
 			(xy 198.12 97.79) (xy 198.12 115.57)
 		)
 		(stroke
@@ -3577,16 +3332,6 @@
 			(type default)
 		)
 		(uuid "71a2be0d-21bd-4c4a-ba11-047f18097c69")
-	)
-	(wire
-		(pts
-			(xy 68.58 90.17) (xy 69.85 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71f9b308-9bae-4176-bf73-9a51d24df618")
 	)
 	(wire
 		(pts
@@ -3820,16 +3565,6 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 90.17) (xy 77.47 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "abb61cac-fe38-4995-9731-017c78dcfad4")
-	)
-	(wire
-		(pts
 			(xy 63.5 135.89) (xy 73.66 135.89)
 		)
 		(stroke
@@ -4000,16 +3735,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 107.95) (xy 74.93 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9a6c167-9991-4a52-8af6-d4f3c906b571")
-	)
-	(wire
-		(pts
 			(xy 194.31 123.19) (xy 208.28 123.19)
 		)
 		(stroke
@@ -4017,16 +3742,6 @@
 			(type default)
 		)
 		(uuid "cad7bc4a-6a09-4288-a506-2974a4e60e7a")
-	)
-	(wire
-		(pts
-			(xy 93.98 40.64) (xy 104.14 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd6fbc08-74f4-4763-b73f-e7c07a62776d")
 	)
 	(wire
 		(pts
@@ -4120,16 +3835,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 100.33) (xy 77.47 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd507f64-eaae-465a-afbf-35cdad8b476c")
-	)
-	(wire
-		(pts
 			(xy 298.45 102.87) (xy 302.26 102.87)
 		)
 		(stroke
@@ -4147,16 +3852,6 @@
 			(type default)
 		)
 		(uuid "e59dcf65-e86b-418a-92cc-dba6799b1db2")
-	)
-	(wire
-		(pts
-			(xy 68.58 100.33) (xy 77.47 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e63cff97-93e3-46cf-868c-fd055f468bb7")
 	)
 	(wire
 		(pts
@@ -4257,16 +3952,6 @@
 			(type default)
 		)
 		(uuid "f8873adf-57a0-4cfb-b529-c3b0bb2d57f7")
-	)
-	(wire
-		(pts
-			(xy 68.58 97.79) (xy 74.93 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9bae775-bb13-4c04-b448-23222ecbe5f8")
 	)
 	(wire
 		(pts
@@ -4612,7 +4297,7 @@
 	)
 	(global_label "MOSI{slash}SDA"
 		(shape input)
-		(at 87.63 100.33 0)
+		(at 76.2 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4622,7 +4307,7 @@
 		)
 		(uuid "4c9a67dd-7e80-4117-8dc1-2321bc214a86")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 98.9192 100.33 0)
+			(at 87.4892 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4684,7 +4369,7 @@
 	)
 	(global_label "SCK{slash}SCL"
 		(shape input)
-		(at 87.63 97.79 0)
+		(at 76.2 97.79 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4694,7 +4379,7 @@
 		)
 		(uuid "7f1c28e1-99d5-4494-83de-a6f7b801f2e5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.8534 97.79 0)
+			(at 86.4234 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4719,30 +4404,6 @@
 		(uuid "8b1b64e5-0810-4ce0-a72f-1819b0ea7c46")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 212.09 27.4682 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "SCK{slash}SCL"
-		(shape input)
-		(at 87.63 110.49 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "952201b9-6285-4f92-b27b-dfbb878d7120")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.8534 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4828,7 +4489,7 @@
 	)
 	(global_label "CS"
 		(shape input)
-		(at 87.63 90.17 0)
+		(at 76.2 105.41 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4838,7 +4499,7 @@
 		)
 		(uuid "b35b5157-c75c-4e57-92f6-7af0cb612de2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.5244 90.17 0)
+			(at 81.0944 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4887,54 +4548,6 @@
 		(uuid "bd10e1cd-1edd-4d02-ad19-5f0db6d906ca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 102.0718 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "MOSI{slash}SDA"
-		(shape input)
-		(at 87.63 113.03 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "bf96aaca-f976-4bb4-a503-ee30aca57094")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 98.9192 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "CS"
-		(shape input)
-		(at 87.63 105.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c04487cb-127f-4baf-b72f-0cf7588335ba")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.5244 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5413,7 +5026,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 175.895 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -5518,7 +5131,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 161.925 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5620,7 +5233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 217.17 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -5700,7 +5313,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 231.14 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -5749,8 +5362,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 325.12 41.91 0)
 		(unit 1)
 		(body_style 1)
@@ -5771,7 +5383,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 325.12 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5781,7 +5393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 327.66 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -5867,7 +5479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 203.2 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5995,8 +5607,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 358.14 87.63 180)
 		(unit 1)
 		(body_style 1)
@@ -6017,7 +5628,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 358.14 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6027,7 +5638,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 355.6 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6116,7 +5727,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 203.835 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -6187,8 +5798,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 325.12 87.63 180)
 		(unit 1)
 		(body_style 1)
@@ -6209,7 +5819,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 325.12 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6219,7 +5829,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 322.58 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6308,7 +5918,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 189.865 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -6379,8 +5989,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 275.59 41.91 0)
 		(unit 1)
 		(body_style 1)
@@ -6401,7 +6010,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 275.59 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6411,7 +6020,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 278.13 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -6500,7 +6109,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 175.895 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -6571,166 +6180,6 @@
 		)
 	)
 	(symbol
-		(lib_id "chunchunkb:jumper")
-		(at 82.55 113.03 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "178ac776-640d-49d1-b330-168486d73c03")
-		(property "Reference" "JP8"
-			(at 82.55 113.03 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "jumper"
-			(at 82.55 115.316 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "chunchunkb:Jumper"
-			(at 82.55 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 82.55 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "deddeaa9-03d6-4780-96ba-a5d7b700da88")
-		)
-		(pin "1"
-			(uuid "c3614bb1-f750-4c14-8f65-986e75e1e121")
-		)
-		(instances
-			(project "chunchunkb"
-				(path "/c64465b6-eb49-4a63-b501-311556755a54"
-					(reference "JP8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 104.14 40.64 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1a132532-4b83-41af-9edf-348fca866d10")
-		(property "Reference" "#PWR05"
-			(at 110.49 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 107.95 40.64 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 104.14 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 104.14 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 104.14 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "df88f531-d338-4195-ac56-6ab6f00fb3d3")
-		)
-		(instances
-			(project "chunchunkb"
-				(path "/c64465b6-eb49-4a63-b501-311556755a54"
-					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 203.2 62.23 0)
 		(unit 1)
@@ -6762,7 +6211,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 203.2 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6845,7 +6294,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 217.805 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -6947,7 +6396,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 203.2 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -6996,8 +6445,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 308.61 102.87 0)
 		(unit 1)
 		(body_style 1)
@@ -7018,7 +6466,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 308.61 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7028,7 +6476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 311.15 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -7117,7 +6565,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 231.775 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7219,7 +6667,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 161.29 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -7268,8 +6716,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 275.59 118.11 0)
 		(mirror y)
 		(unit 1)
@@ -7291,7 +6738,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 275.59 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7301,7 +6748,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 273.05 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -7390,7 +6837,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 203.835 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -7495,7 +6942,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 175.895 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -7566,8 +7013,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 308.61 118.11 0)
 		(mirror y)
 		(unit 1)
@@ -7589,7 +7035,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 308.61 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7599,7 +7045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 306.07 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -7685,7 +7131,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 217.17 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -7735,7 +7181,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 87.63 107.95 90)
+		(at 76.2 102.87 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7746,7 +7192,7 @@
 		(fields_autoplaced yes)
 		(uuid "310a2fa5-95b4-4a71-bc2d-3a6fa3d461ab")
 		(property "Reference" "#PWR08"
-			(at 93.98 107.95 0)
+			(at 82.55 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7757,7 +7203,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 91.44 107.95 90)
+			(at 80.01 102.87 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7768,7 +7214,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 107.95 0)
+			(at 76.2 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7779,7 +7225,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 107.95 0)
+			(at 76.2 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7790,7 +7236,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 87.63 107.95 0)
+			(at 76.2 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7847,7 +7293,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 231.775 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -7952,7 +7398,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 217.805 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -8054,7 +7500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:SW_SPDT_PCM12"
+		(property "Footprint" "chunchun_rev:CC_SW_Power_PCM12"
 			(at 119.38 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -8106,8 +7552,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 358.14 102.87 0)
 		(unit 1)
 		(body_style 1)
@@ -8128,7 +7573,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 358.14 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8138,7 +7583,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 360.68 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -8224,7 +7669,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 231.14 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -8273,89 +7718,7 @@
 		)
 	)
 	(symbol
-		(lib_id "chunchunkb:jumper")
-		(at 82.55 107.95 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3cf7747c-14e9-4911-9177-cd29699be499")
-		(property "Reference" "JP6"
-			(at 82.55 107.95 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "jumper"
-			(at 82.55 110.236 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "chunchunkb:Jumper"
-			(at 82.55 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 82.55 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "0d42b8f6-80bb-49b1-9050-789cb4c37e59")
-		)
-		(pin "1"
-			(uuid "c8755bd6-0f6f-4c07-aeda-f2b9b4bbdcd8")
-		)
-		(instances
-			(project "chunchunkb"
-				(path "/c64465b6-eb49-4a63-b501-311556755a54"
-					(reference "JP6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 292.1 102.87 0)
 		(unit 1)
 		(body_style 1)
@@ -8376,7 +7739,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 292.1 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8386,7 +7749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 294.64 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -8441,8 +7804,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 292.1 72.39 0)
 		(mirror x)
 		(unit 1)
@@ -8464,7 +7826,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 292.1 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8474,7 +7836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 294.64 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -8529,8 +7891,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 292.1 57.15 0)
 		(mirror y)
 		(unit 1)
@@ -8552,7 +7913,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 292.1 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8562,7 +7923,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 289.56 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -8648,7 +8009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 175.26 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -8697,8 +8058,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 341.63 57.15 0)
 		(mirror y)
 		(unit 1)
@@ -8720,7 +8080,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 341.63 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8730,7 +8090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 339.09 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -8785,8 +8145,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 325.12 57.15 0)
 		(mirror y)
 		(unit 1)
@@ -8808,7 +8167,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 325.12 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8818,7 +8177,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 322.58 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -8904,7 +8263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 189.23 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -8987,7 +8346,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 231.775 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -9092,7 +8451,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 217.805 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9197,7 +8556,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 161.925 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -9302,7 +8661,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 189.865 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -9407,7 +8766,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 161.925 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -9509,7 +8868,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 161.29 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -9589,7 +8948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 161.29 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -9672,7 +9031,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 203.835 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -9853,7 +9212,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 175.26 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -9902,6 +9261,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 30.48 138.43 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "66cc0f97-9f40-46f7-a466-7b5436e1e0b1")
+		(property "Reference" "H5"
+			(at 33.02 137.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 33.02 139.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "chunchun_rev:CC_Hole_4.1mm"
+			(at 30.48 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 30.48 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "chunchunkb"
+				(path "/c64465b6-eb49-4a63-b501-311556755a54"
+					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 231.14 44.45 0)
 		(unit 1)
@@ -9933,7 +9368,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 231.14 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10016,7 +9451,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 217.805 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -10120,7 +9555,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:HOLE_M2_TH"
+		(property "Footprint" "chunchun_rev:CC_Hole_4.1mm"
 			(at 30.48 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -10194,7 +9629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 189.23 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -10243,8 +9678,159 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "Mechanical:MountingHole")
+		(at 30.48 144.78 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "707f9ced-8f7a-4f35-8a25-5beb03ea1330")
+		(property "Reference" "H6"
+			(at 33.02 143.51 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 33.02 146.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "chunchun_rev:CC_Hole_4.1mm"
+			(at 30.48 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 30.48 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "chunchunkb"
+				(path "/c64465b6-eb49-4a63-b501-311556755a54"
+					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 30.48 151.13 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "477dab9f-f195-42b8-ad67-dd9093cf22b4")
+		(property "Reference" "H7"
+			(at 33.02 149.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 33.02 152.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "chunchun_rev:CC_Hole_4.1mm"
+			(at 30.48 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 30.48 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "chunchunkb"
+				(path "/c64465b6-eb49-4a63-b501-311556755a54"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 325.12 118.11 0)
 		(mirror y)
 		(unit 1)
@@ -10266,7 +9852,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 325.12 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10276,7 +9862,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 322.58 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -10362,7 +9948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 189.23 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -10445,7 +10031,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 175.895 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -10516,8 +10102,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 308.61 72.39 0)
 		(mirror x)
 		(unit 1)
@@ -10539,7 +10124,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 308.61 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10549,7 +10134,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 311.15 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -10638,7 +10223,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 189.865 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -10740,7 +10325,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 175.26 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10823,7 +10408,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 217.805 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -10925,7 +10510,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 217.17 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -11008,7 +10593,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 161.925 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -11110,7 +10695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 189.23 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -11193,7 +10778,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 189.865 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -11264,8 +10849,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 275.59 57.15 0)
 		(mirror y)
 		(unit 1)
@@ -11287,7 +10871,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 275.59 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11297,7 +10881,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 273.05 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -11352,89 +10936,7 @@
 		)
 	)
 	(symbol
-		(lib_id "chunchunkb:jumper")
-		(at 82.55 110.49 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "847faebe-78bf-4bd7-a808-bc9b50d15413")
-		(property "Reference" "JP7"
-			(at 82.55 110.49 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "jumper"
-			(at 82.55 112.776 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "chunchunkb:Jumper"
-			(at 82.55 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 82.55 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f313e4e5-53c9-4f70-91ce-6936a983bbeb")
-		)
-		(pin "1"
-			(uuid "abf5628e-0c0c-4535-aad8-ccc54c62e688")
-		)
-		(instances
-			(project "chunchunkb"
-				(path "/c64465b6-eb49-4a63-b501-311556755a54"
-					(reference "JP7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 292.1 41.91 0)
 		(unit 1)
 		(body_style 1)
@@ -11455,7 +10957,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 292.1 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11465,7 +10967,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 294.64 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -11520,8 +11022,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 341.63 102.87 0)
 		(unit 1)
 		(body_style 1)
@@ -11542,7 +11043,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 341.63 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11552,7 +11053,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 344.17 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -11607,8 +11108,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 275.59 87.63 180)
 		(unit 1)
 		(body_style 1)
@@ -11629,7 +11129,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 275.59 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11639,7 +11139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 273.05 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -11728,7 +11228,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 189.865 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -11830,7 +11330,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 217.17 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -11879,7 +11379,7 @@
 		)
 	)
 	(symbol
-		(lib_id "chunchunkb:nice_nano")
+		(lib_id "chunchun_rev:CC_nice_nano")
 		(at 76.2 52.07 0)
 		(unit 1)
 		(body_style 1)
@@ -11891,7 +11391,7 @@
 		(fields_autoplaced yes)
 		(uuid "9065cc4d-a3b8-4cff-93a3-b98980c2225e")
 		(property "Reference" "U1"
-			(at 76.2 30.48 0)
+			(at 76.2 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11900,8 +11400,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 77.47 52.07 0)
+		(property "Value" "nice!nano"
+			(at 76.2 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11910,7 +11410,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:ProMicro_DUAL"
+		(property "Footprint" "chunchun_rev:CC_nice_nano"
 			(at 102.87 115.57 90)
 			(hide yes)
 			(show_name no)
@@ -11932,7 +11432,7 @@
 				)
 			)
 		)
-		(property "Description" "NRF micro schematic"
+		(property "Description" ""
 			(at 76.2 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -11943,53 +11443,50 @@
 				)
 			)
 		)
-		(pin "9"
-			(uuid "d8aec26d-79e4-496f-8181-8c2f5e500423")
+		(pin "P0.06"
+			(uuid "601bb730-7961-4b96-b795-d79cb8b0bd4e")
 		)
-		(pin "31"
-			(uuid "d59b00a1-2047-4e4e-b1b1-64ad27dab0b1")
+		(pin "P0.08"
+			(uuid "e807e8f6-8113-47d3-991a-774e2ef658c0")
 		)
-		(pin "7"
-			(uuid "cffd65fc-d733-40cd-8a5d-3fbdd55bc113")
+		(pin "GND"
+			(uuid "77428640-8fcd-428e-84e3-7213688ead18")
+		)
+		(pin "BAT"
+			(uuid "e065f2c5-5f7a-4a2f-9bd7-64d14a83c810")
+		)
+		(pin "RST"
+			(uuid "cdbd173e-6022-48c7-aa8d-d50981bb7357")
+		)
+		(pin "VCC"
+			(uuid "d3dfa420-835d-4960-93c8-0d4e50a158ef")
 		)
 		(pin "5"
 			(uuid "9e1e474f-ee74-4ca4-9e1d-69fe8fa2273a")
 		)
-		(pin "17"
-			(uuid "20343b72-7c48-42aa-876c-f5258d3766b0")
+		(pin "6"
+			(uuid "81d9119d-990d-4301-8f51-eb211a045967")
 		)
-		(pin "4"
-			(uuid "37dc84ff-d6d7-4609-9d2e-671fe29a2834")
+		(pin "7"
+			(uuid "cffd65fc-d733-40cd-8a5d-3fbdd55bc113")
 		)
-		(pin "20"
-			(uuid "c582dd91-ea50-444d-9f50-fa7199188968")
+		(pin "8"
+			(uuid "3db7d5f0-aaf6-49ac-8ca4-2d167aa0475b")
 		)
-		(pin "22"
-			(uuid "33d5337f-9e3f-4541-aac1-f540a2f3e91c")
+		(pin "9"
+			(uuid "d8aec26d-79e4-496f-8181-8c2f5e500423")
 		)
-		(pin "32"
-			(uuid "86dd4de0-a3ea-42a7-8e97-24dde7e2f574")
+		(pin "10"
+			(uuid "9deb60e3-ed6b-40b0-bfe2-1935b50f0c00")
+		)
+		(pin "11"
+			(uuid "6f2c380e-c906-42e5-a727-84bd1fdbaf8b")
 		)
 		(pin "12"
 			(uuid "89d3a0c7-3888-4588-a9fb-138661af1841")
 		)
-		(pin "21"
-			(uuid "498d016d-12e6-468f-b52c-04f1bd89a6b2")
-		)
-		(pin "6"
-			(uuid "81d9119d-990d-4301-8f51-eb211a045967")
-		)
 		(pin "13"
 			(uuid "016003e4-e750-45d7-a75f-f7c56afec0fb")
-		)
-		(pin "19"
-			(uuid "43351673-3c1b-47b2-a75c-69d3cbc71d97")
-		)
-		(pin "24"
-			(uuid "4c9ba7b9-2f08-48cc-b17f-c98f988dc21c")
-		)
-		(pin "23"
-			(uuid "0f9442da-fc91-4950-86a9-492d6896d196")
 		)
 		(pin "14"
 			(uuid "f26b613b-5dbd-4a48-ba72-95360338d575")
@@ -12000,115 +11497,46 @@
 		(pin "16"
 			(uuid "dbf968b8-3058-4064-af74-98c43d9187c8")
 		)
+		(pin "17"
+			(uuid "20343b72-7c48-42aa-876c-f5258d3766b0")
+		)
 		(pin "18"
 			(uuid "a0c800b0-3508-482a-8edd-4354abbea240")
 		)
-		(pin "33"
-			(uuid "d7dfb6ca-c493-4b43-8cec-3057c3e1c618")
+		(pin "19"
+			(uuid "43351673-3c1b-47b2-a75c-69d3cbc71d97")
 		)
-		(pin "10"
-			(uuid "9deb60e3-ed6b-40b0-bfe2-1935b50f0c00")
+		(pin "20"
+			(uuid "c582dd91-ea50-444d-9f50-fa7199188968")
 		)
-		(pin "11"
-			(uuid "6f2c380e-c906-42e5-a727-84bd1fdbaf8b")
+		(pin "H1"
+			(uuid "4e6fd0d7-6594-450d-a781-8fd703af2069")
 		)
-		(pin "8"
-			(uuid "3db7d5f0-aaf6-49ac-8ca4-2d167aa0475b")
+		(pin "H2"
+			(uuid "72683ef2-e0fa-403b-b759-8c5f2222ab5e")
 		)
-		(pin "3"
-			(uuid "0faa5928-67b3-4e30-8cc5-3f6b21088809")
+		(pin "H3"
+			(uuid "49383519-7e23-4fe8-82e5-0ea8254b8716")
 		)
-		(pin "2"
-			(uuid "03a35c3a-6bda-4031-82ff-a31b3d529434")
+		(pin "H4"
+			(uuid "b2bd5493-3a0b-4e4b-b1cd-151c7c452b49")
 		)
-		(pin "1"
-			(uuid "126e2a9d-b6ce-407c-b568-4db92aca185f")
+		(pin "H21"
+			(uuid "287bf8d3-ae42-45cb-8f81-7d0b7e513195")
+		)
+		(pin "H22"
+			(uuid "b3544899-0f58-4c36-a483-59be85393b2e")
+		)
+		(pin "H23"
+			(uuid "72c5d78e-ded5-413f-8344-e21a49a54391")
+		)
+		(pin "H24"
+			(uuid "cf282faa-e92c-40ba-b556-7bc76eac44de")
 		)
 		(instances
 			(project "chunchunkb"
 				(path "/c64465b6-eb49-4a63-b501-311556755a54"
 					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "chunchunkb:jumper")
-		(at 82.55 105.41 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "92c5fec8-85b0-4b6d-b826-04aeedcc4948")
-		(property "Reference" "JP5"
-			(at 82.55 105.41 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "jumper"
-			(at 82.55 107.696 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "chunchunkb:Jumper"
-			(at 82.55 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 82.55 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "2eac6246-3438-4769-ace1-64f041b04be5")
-		)
-		(pin "1"
-			(uuid "f791037a-bc6c-44f2-875f-7fa38e32ce73")
-		)
-		(instances
-			(project "chunchunkb"
-				(path "/c64465b6-eb49-4a63-b501-311556755a54"
-					(reference "JP5")
 					(unit 1)
 				)
 			)
@@ -12146,7 +11574,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 189.23 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -12228,7 +11656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:HOLE_M2_TH"
+		(property "Footprint" "chunchun_rev:CC_Hole_4.1mm"
 			(at 30.48 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -12305,7 +11733,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 231.775 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -12376,8 +11804,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 308.61 41.91 0)
 		(unit 1)
 		(body_style 1)
@@ -12398,7 +11825,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 308.61 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12408,7 +11835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 311.15 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -12497,7 +11924,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 203.835 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -12599,7 +12026,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 217.17 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -12757,7 +12184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:EC11_MX_Hybrid"
+		(property "Footprint" "chunchun_rev:CC_EC11_MX_1u"
 			(at 77.47 131.826 0)
 			(hide yes)
 			(show_name no)
@@ -12849,7 +12276,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 161.925 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -12920,8 +12347,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 358.14 41.91 0)
 		(unit 1)
 		(body_style 1)
@@ -12942,7 +12368,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 358.14 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12952,7 +12378,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 360.68 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13120,7 +12546,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 161.925 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -13222,7 +12648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:SW_PUSH_1P1T_6x3.5mm_H4.3_APEM_MJTP1243"
+		(property "Footprint" "chunchun_rev:CC_SW_Reset"
 			(at 40.64 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -13302,7 +12728,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 189.23 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -13385,7 +12811,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 231.775 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -13456,8 +12882,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 308.61 87.63 180)
 		(unit 1)
 		(body_style 1)
@@ -13478,7 +12903,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 308.61 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13488,7 +12913,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 306.07 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -13577,7 +13002,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 189.865 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13648,8 +13073,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 325.12 102.87 0)
 		(unit 1)
 		(body_style 1)
@@ -13670,7 +13094,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 325.12 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13680,7 +13104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 327.66 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -13769,7 +13193,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 203.835 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13840,8 +13264,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 308.61 57.15 0)
 		(mirror y)
 		(unit 1)
@@ -13863,7 +13286,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 308.61 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13873,7 +13296,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 306.07 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -13928,8 +13351,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 325.12 72.39 0)
 		(mirror x)
 		(unit 1)
@@ -13951,7 +13373,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 325.12 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13961,7 +13383,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 327.66 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14095,8 +13517,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 358.14 57.15 0)
 		(mirror y)
 		(unit 1)
@@ -14118,7 +13539,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 358.14 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14128,7 +13549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 355.6 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -14214,7 +13635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 231.14 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -14376,7 +13797,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:HOLE_M2_TH"
+		(property "Footprint" "chunchun_rev:CC_Hole_4.1mm"
 			(at 30.48 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -14497,8 +13918,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 341.63 41.91 0)
 		(unit 1)
 		(body_style 1)
@@ -14519,7 +13939,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 341.63 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14529,7 +13949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 344.17 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -14617,7 +14037,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:HOLE_M2_TH"
+		(property "Footprint" "chunchun_rev:CC_Hole_4.1mm"
 			(at 30.48 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -14660,8 +14080,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 292.1 118.11 0)
 		(mirror y)
 		(unit 1)
@@ -14683,7 +14102,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 292.1 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14693,7 +14112,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 289.56 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -14748,8 +14167,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 341.63 118.11 0)
 		(mirror y)
 		(unit 1)
@@ -14771,7 +14189,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 341.63 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14781,7 +14199,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 339.09 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -14836,8 +14254,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 341.63 72.39 0)
 		(mirror x)
 		(unit 1)
@@ -14859,7 +14276,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 341.63 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14869,7 +14286,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 344.17 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14924,8 +14341,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 275.59 102.87 0)
 		(unit 1)
 		(body_style 1)
@@ -14946,7 +14362,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 275.59 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14956,7 +14372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 278.13 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -15011,8 +14427,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 341.63 87.63 180)
 		(unit 1)
 		(body_style 1)
@@ -15033,7 +14448,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 341.63 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15043,7 +14458,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 339.09 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -15129,7 +14544,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 175.26 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -15178,8 +14593,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x05")
-		(at 63.5 95.25 180)
+		(lib_id "chunchun_rev:CC_Display_5pin")
+		(at 66.04 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15190,7 +14605,7 @@
 		(fields_autoplaced yes)
 		(uuid "d479f013-ffbb-4180-aeaf-595c323c9340")
 		(property "Reference" "J2"
-			(at 63.5 83.82 0)
+			(at 66.04 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15199,8 +14614,8 @@
 				)
 			)
 		)
-		(property "Value" "OLED"
-			(at 63.5 86.36 0)
+		(property "Value" "nice!view"
+			(at 66.04 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15209,8 +14624,8 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:nice_view"
-			(at 63.5 95.25 0)
+		(property "Footprint" "chunchun_rev:CC_Display_5pin"
+			(at 66.04 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15221,7 +14636,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 95.25 0)
+			(at 66.04 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15231,8 +14646,8 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 63.5 95.25 0)
+		(property "Description" ""
+			(at 66.04 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15241,21 +14656,27 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "3"
-			(uuid "47b22ea3-a2d0-4d54-87ec-8d7581dccab5")
-		)
-		(pin "2"
-			(uuid "4774e384-f337-4448-8f36-99f16a4d3255")
-		)
-		(pin "4"
-			(uuid "303b333d-88b1-4b80-9099-6b50a38677b5")
 		)
 		(pin "1"
 			(uuid "c564562c-d69e-4bb5-a2c4-5d4ba4b3ce3a")
 		)
+		(pin "SCK"
+			(uuid "798e8522-6c95-4459-8101-00e99d25475b")
+		)
+		(pin "3"
+			(uuid "47b22ea3-a2d0-4d54-87ec-8d7581dccab5")
+		)
+		(pin "GND"
+			(uuid "c86af4a0-1882-4a1b-8cf0-f02a56c77147")
+		)
 		(pin "5"
 			(uuid "7513b4e9-e84e-4b95-911d-e3a838d59277")
+		)
+		(pin "H2"
+			(uuid "12539241-a307-4080-9b78-8a82f00932d3")
+		)
+		(pin "H4"
+			(uuid "1f4b1c5b-d740-4fcd-8bb5-3439bd778334")
 		)
 		(instances
 			(project "chunchunkb"
@@ -15268,7 +14689,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 87.63 95.25 270)
+		(at 76.2 100.33 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15279,7 +14700,7 @@
 		(fields_autoplaced yes)
 		(uuid "d538398d-448e-434b-9977-b632810c89ce")
 		(property "Reference" "#PWR07"
-			(at 83.82 95.25 0)
+			(at 72.39 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15290,7 +14711,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 91.44 95.25 90)
+			(at 80.01 100.33 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15301,7 +14722,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 95.25 0)
+			(at 76.2 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15312,7 +14733,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 95.25 0)
+			(at 76.2 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15323,7 +14744,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 87.63 95.25 0)
+			(at 76.2 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15346,8 +14767,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 292.1 87.63 180)
 		(unit 1)
 		(body_style 1)
@@ -15368,7 +14788,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 292.1 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15378,7 +14798,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 289.56 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -15433,8 +14853,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 358.14 118.11 0)
 		(mirror y)
 		(unit 1)
@@ -15456,7 +14875,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 358.14 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15466,7 +14885,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 355.6 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -15554,7 +14973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX1.25mm"
+		(property "Footprint" "chunchun_rev:CC_Battery_MX1.25"
 			(at 133.35 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -15637,7 +15056,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 217.805 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -15739,7 +15158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 203.2 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -15788,87 +15207,7 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 87.63 92.71 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "db967af9-b456-43b8-af81-ab18ba35b147")
-		(property "Reference" "#PWR03"
-			(at 93.98 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 91.44 92.71 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 87.63 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 87.63 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 87.63 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "97ee1465-e2c8-4abd-ab5b-35e101978b8d")
-		)
-		(instances
-			(project "chunchunkb"
-				(path "/c64465b6-eb49-4a63-b501-311556755a54"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 275.59 72.39 0)
 		(mirror x)
 		(unit 1)
@@ -15890,7 +15229,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 275.59 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15900,7 +15239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 278.13 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -15955,87 +15294,6 @@
 		)
 	)
 	(symbol
-		(lib_id "chunchunkb:jumper")
-		(at 82.55 100.33 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "deda9bb4-c3a3-4f6d-8a32-361a6f92c8fb")
-		(property "Reference" "JP4"
-			(at 82.55 100.33 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "jumper"
-			(at 82.55 102.616 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "chunchunkb:Jumper"
-			(at 82.55 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 82.55 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a3f3bf85-4ce4-40e2-958d-116295782fe7")
-		)
-		(pin "1"
-			(uuid "cf0e1e00-f325-4746-8e97-b680585e440c")
-		)
-		(instances
-			(project "chunchunkb"
-				(path "/c64465b6-eb49-4a63-b501-311556755a54"
-					(reference "JP4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 217.17 80.01 0)
 		(unit 1)
@@ -16067,7 +15325,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 217.17 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -16150,7 +15408,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 231.775 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16252,7 +15510,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 175.26 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -16332,7 +15590,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 203.2 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -16381,168 +15639,6 @@
 		)
 	)
 	(symbol
-		(lib_id "chunchunkb:jumper")
-		(at 82.55 92.71 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e7e3b24f-4e0e-42b9-83e5-be9819cdcab5")
-		(property "Reference" "JP2"
-			(at 82.55 92.71 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "jumper"
-			(at 82.55 94.996 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "chunchunkb:Jumper"
-			(at 82.55 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 82.55 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "294e54fd-e219-45bf-837a-5aabe4531a6b")
-		)
-		(pin "1"
-			(uuid "3f2d644e-c9f5-4e66-8e79-521f1adb3443")
-		)
-		(instances
-			(project "chunchunkb"
-				(path "/c64465b6-eb49-4a63-b501-311556755a54"
-					(reference "JP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "chunchunkb:jumper")
-		(at 82.55 90.17 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e7fac5f4-4bf6-4c07-be8e-e4045202e726")
-		(property "Reference" "JP1"
-			(at 82.55 90.17 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "jumper"
-			(at 82.55 92.456 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "chunchunkb:Jumper"
-			(at 82.55 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 82.55 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "236888dc-8fa4-4328-a6a7-b4d2a24e0a92")
-		)
-		(pin "1"
-			(uuid "08a3ad22-db98-46f8-8fa4-065a2cecf6c5")
-		)
-		(instances
-			(project "chunchunkb"
-				(path "/c64465b6-eb49-4a63-b501-311556755a54"
-					(reference "JP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:1N4148W")
 		(at 208.28 137.16 270)
 		(mirror x)
@@ -16577,7 +15673,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 203.835 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16682,7 +15778,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 175.895 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16753,87 +15849,6 @@
 		)
 	)
 	(symbol
-		(lib_id "chunchunkb:jumper")
-		(at 82.55 97.79 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eedc8c1d-d56b-4c49-8c60-34f3a1c0ecc4")
-		(property "Reference" "JP3"
-			(at 82.55 97.79 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "jumper"
-			(at 82.55 100.076 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "chunchunkb:Jumper"
-			(at 82.55 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 82.55 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "26e64608-16aa-4d3d-bbb2-e19cde951304")
-		)
-		(pin "1"
-			(uuid "8c3072c4-37e6-4c1d-a9bb-da0fbad3d24b")
-		)
-		(instances
-			(project "chunchunkb"
-				(path "/c64465b6-eb49-4a63-b501-311556755a54"
-					(reference "JP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 231.14 97.79 0)
 		(unit 1)
@@ -16865,7 +15880,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 231.14 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -16945,7 +15960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 161.29 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17025,7 +16040,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 203.2 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17105,7 +16120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 175.26 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -17185,7 +16200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 161.29 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -17268,7 +16283,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "chunchunkb:crkbd-diode"
+		(property "Footprint" "chunchun_rev:CC_D_SOD-123"
 			(at 175.895 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -17339,8 +16354,7 @@
 		)
 	)
 	(symbol
-		(lib_name "YS-SK6812MINI-E_35")
-		(lib_id "kbd:YS-SK6812MINI-E")
+		(lib_id "chunchun_rev:CC_SK6812MINI-E")
 		(at 358.14 72.39 0)
 		(mirror x)
 		(unit 1)
@@ -17362,7 +16376,7 @@
 				)
 			)
 		)
-		(property "Value" "YS-SK6812MINI-E"
+		(property "Value" "SK6812MINI-E"
 			(at 358.14 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17372,7 +16386,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:YS-SK6812MINI-E"
+		(property "Footprint" "chunchun_rev:CC_SK6812MINI-E"
 			(at 360.68 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -17458,7 +16472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "chunchunkb:MX-1U-Hotswap"
+		(property "Footprint" "chunchun_rev:CC_MX_Hotswap_1u"
 			(at 231.14 74.93 0)
 			(hide yes)
 			(show_name no)
